@@ -28,7 +28,7 @@ twitter_username: Jeg har ikke twitter
 github_username:  Knorsker
 
 # Build settings
-theme: minima
+theme: Not Pure Poole
 plugins:
   - jekyll-feed
 
