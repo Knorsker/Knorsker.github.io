@@ -5,4 +5,5 @@ date:   2024-03-12 09:47:07 +0100
 categories: jekyll update
 ---
 *Update time: {% assign current_time = site.time | date: "%H:%M:%S" %}{{ current_time +1}}*
-![Heatmap from week 5](images/plot1_week5.png)
+
+![Heatmap from week 5](/images/plot1_week5.png)
