@@ -4,7 +4,6 @@ title:  "Exploring the Impact of Social Data and Visualization: A Student's Pers
 date:   2024-03-12 09:47:07 +0100
 categories: jekyll update
 ---
-# Exploring the Intersection of Social Data and Visualization: A Student's Perspective
 
 Hey there, fellow learners! Are you ready to dive into the exciting world of social data and visualization? As a student navigating this course, I wanted to share my thoughts and experiences with you all.
 

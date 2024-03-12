@@ -1,4 +1,4 @@
-## Unveiling Insights: Welcome to Social Data and Visualization
+## About
 
 Welcome to the Social Data and Visualization platform, where we unravel the stories hidden within data and bring them to life through powerful visualizations. 
 
