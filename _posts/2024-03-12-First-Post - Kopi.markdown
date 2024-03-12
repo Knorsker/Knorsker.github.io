@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Week 5 exercise"
+date:   2024-03-12 09:47:07 +0100
+categories: jekyll update
+---
+
+![Heatmap from week 5](../images/plot1_week5.png)
