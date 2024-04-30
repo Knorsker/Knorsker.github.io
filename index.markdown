@@ -21,6 +21,9 @@ The dataset containing bike counts are from 10 different years, 2005 to 2014. Th
 
 _Table 1: Number of streets, where data is measured from._
 
+
+
+
 It contains various information about the number and placement of bike stands in Copenhagen. We have utilized both the CSV file and GeoJSON file to enable various plot options. In addition to these two files, we have also utilized the dataset called 'Bydele,' which includes a GeoJSON file. This file is used to plot the placement and number of bike stands in different parts of the city on a map.
 
 __Trends and patterns of (III)__
@@ -31,10 +34,10 @@ _Figure 1: Barplot._
 _Figure 2: Barplot._
 
 
-__Geographical analysis of bikespot within Copenhagen (IV)__
+__Comparison (IV)__
 
 
-__Comparison(V)__
+__Geographical analysis of bikespot within Copenhagen (V)__
 
 
 __Discussion and Conclusion (VI)__
