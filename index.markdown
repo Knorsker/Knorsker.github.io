@@ -21,7 +21,7 @@ The dataset containing bike counts spans 10 different years, from 2005 to 2014. 
 
 _Table 1: Number of streets, where data is measured from._
 
-Secondly we have the population data, this data contains the population number within each city part in Copenhagen.
+Secondly we have the population data, this data contains the population number within each city part in Copenhagen over time.
 
 
 Bikestands/
