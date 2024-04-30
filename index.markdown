@@ -26,7 +26,7 @@ Secondly we have the population data, this data contains the population number w
 Lastly we have the Bike stands data. It contains various information about the number and placement of bike stands in Copenhagen. In addition to this dataset, we have utilized the dataset called 'Bydele' *from opendata.dk*, which includes a GeoJSON file over the different city part of Copenhagen.
 
 __Trends and patterns of (III)__
-
+XXX Intro XXX
 ![One time-series / bar chart](/A3/168hourplot.png)
 _Figure 1: A 168 hour barplot showing the patterns for each hour in a week._
 
