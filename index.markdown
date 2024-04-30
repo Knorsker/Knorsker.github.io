@@ -10,7 +10,7 @@ __Introduction (I)__
 
 
 __Data (II)__\
-When analysing the usage of bikes within Copenhagen, we will be using numerous of dataset. All datasets are provided by *opendata.dk*.  The datasets we are using are bike counts data, bikespots data, population data and geoplot data for each city part.
+When analysing the usage of bikes within Copenhagen, we will be using numerous of dataset.  The datasets we are using are bike counts data, bikespots data, population data and geoplot data for each city part. All datasets are provided by *opendata.dk* except population, which are gathered from *Københavns Kommunes Statistikbank*
 
 The dataset containing bike counts are from 10 different years, 2005 to 2014. This data is contained by counters placed on the different bikeroads within Copenhagen city. The number of bikeroads counted from varios over the year, it is possible to see in *table 1* an overview of the number of bikeroads the data is contained from. This variation is important to take into account, when using the data for analysis.
 
@@ -21,7 +21,7 @@ The dataset containing bike counts are from 10 different years, 2005 to 2014. Th
 
 _Table 1: Number of streets, where data is measured from._
 
-
+Econdly we have the population data, this data contains the population number within each city part in Copenhagen.
 
 
 It contains various information about the number and placement of bike stands in Copenhagen. We have utilized both the CSV file and GeoJSON file to enable various plot options. In addition to these two files, we have also utilized the dataset called 'Bydele,' which includes a GeoJSON file. This file is used to plot the placement and number of bike stands in different parts of the city on a map.
