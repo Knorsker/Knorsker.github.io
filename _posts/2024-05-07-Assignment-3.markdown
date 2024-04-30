@@ -10,15 +10,17 @@ __Introduction (I)__\
 
 
 __Trends and patterns of (II)__\
+![One time-series / bar chart](/A3/168hourplot.png)
+![One time-series / bar chart](/A3/monthlyplot.png)
 
 
-
-__Geographical analysis of reported prostitution incidents (III)__
-
-
-__Insights into Prostitution Incident Patterns Across San Francisco Districts (IV)__
+__Geographical analysis of bikespot within Copenhagen (III)__
 
 
+__(IV)__
+
+
+__Discussion and Conclusion (V)__
 
 
 __Contributions__
