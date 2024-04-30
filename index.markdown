@@ -10,9 +10,9 @@ __Introduction (I)__
 
 
 __Data (II)__
-Analysing the usage of bikes within Copenhagen, we will be using numerous of dataset. All datasets are provided by *opendata.dk*.  The datasets we are using are bike counts data, bikespots data, population data and geoplot data for each city part.
+When analysing the usage of bikes within Copenhagen, we will be using numerous of dataset. All datasets are provided by *opendata.dk*.  The datasets we are using are bike counts data, bikespots data, population data and geoplot data for each city part.
 
-The dataset containing bike counts are from 10 different years, 2005 to 2014. This data is contained by counters being on the different bikeroads within Copenhagen city. 
+The dataset containing bike counts are from 10 different years, 2005 to 2014. This data is contained by counters placed on the different bikeroads within Copenhagen city. 
 
 
 |Year| 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 
