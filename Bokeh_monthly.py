@@ -15,7 +15,6 @@ file_paths = [
     "../Data/cykeltaellinger-2012.xlsx",
     "../Data/cykeltaellinger-2013.xlsx",
     "../Data/cykeltaellinger-2014.xlsx",
-    # Add more file paths as needed
 ]
 
 # List to store DataFrames
@@ -34,7 +33,7 @@ data_com['year'] =pd.to_datetime(data_com['Dato'], format='%d.%m.%Y').dt.year
 
 data = data_com
 
-month_order = ["January", "February", "March", "April", "May", "June","July", "August", "September", "October", "November", "December"]
+month_order = ["Jan", "Feb", "Mar", "Apr", "May", "Jun","Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
 # # Map month numbers to month names
 data['Month_Name'] = data['Month'].map({i + 1: month_order[i] for i in range(12)})
@@ -49,7 +48,7 @@ data.reset_index(inplace=True)  # Resetting the index to flatten the MultiIndex
 
 src = ColumnDataSource(data)
 
-p = figure(x_range=FactorRange(factors=data['Month_Name']), title="Number of bikes counted each month", x_axis_label="Month", y_axis_label="no. Bikes", width=1200, height=800)
+p = figure(x_range=FactorRange(factors=data['Month_Name']), title="Number of bikes counted each month", x_axis_label="Month", y_axis_label="no. Bikes", width=600, height=400)
 
 items = []
 bar = {}
