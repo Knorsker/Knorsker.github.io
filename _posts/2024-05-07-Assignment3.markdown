@@ -10,7 +10,11 @@ __Introduction (I)__
 
 
 __Data (II)__
-Analysing the usage of bikes within Copenhagen, we will be using numerous of dataset. All the dataset are provided by *opendata.dk*. 
+Analysing the usage of bikes within Copenhagen, we will be using numerous of dataset. All datasets are provided by *opendata.dk*.  The datasets we are using are bike counts data, bikespots data, population data and geoplot data for each city part.
+
+
+
+It contains various information about the number and placement of bike stands in Copenhagen. We have utilized both the CSV file and GeoJSON file to enable various plot options. In addition to these two files, we have also utilized the dataset called 'Bydele,' which includes a GeoJSON file. This file is used to plot the placement and number of bike stands in different parts of the city on a map.
 
 
 |Year| 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 
