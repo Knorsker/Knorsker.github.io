@@ -65,6 +65,29 @@ Every cyclist needs a place to securely park their bike upon arriving at their d
 
 The strategic placement of bike racks serves as a reflection of the city's effort to support cycling as a primary mode of transportation. It is therefore interesting to look at the placement of bikeracks acroos the city to evaluate which current need are prioritised and which districs could use resources to support cycling as a viable transportation option 
 
+<embed 
+       type="text/html" 
+       src="A3\Geoplot_antal_pladser.html"
+       width="1100"
+       height="350">
+_Figure Y: XXX_
+
+<embed 
+       type="text/html" 
+       src="A3\Geoplot_antal_pladser_per_m2.html"
+       width="1100"
+       height="350">
+_Figure Y: XXX_
+
+<embed 
+       type="text/html" 
+       src="A3\Geoplot_antal_pladser_per_befolkning.html"
+       width="1100"
+       height="350">
+_Figure Y: XXX_
+
+
+
 __Discussion and Conclusion (VI)__
 
 
