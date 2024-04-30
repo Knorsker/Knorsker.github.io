@@ -57,11 +57,14 @@ XXX Introduction  XXX
        height="450">
 _Figure Y: FIGURE TEXT._
 
-The first thing that can be seen in the interactive plot is the population of the different districts in Copenhagen. The populations are plotted from year 2000 to year 2024 measured every quarter of the year from 2002 to 2024 and one time in 2000 and 2001. Moreover it is possible to plot accumulated amount of bike spots in the different districts over the years. The start value of the for the accumulated sum is total amount of bike spots with no registration date. 
+In the interactive plot, the first noticeable feature is the population progress across various districts in Copenhagen. The population data spans from the year 2000 to 2024, with measurements taken quarterly from 2002 to 2024, and once each in 2000 and 2001.
+Additionally, is the plot showing the visualization of the cumulative number of bike spots across different districts over the years. The initial value for this cumulative sum is the total number of bike spots without registration dates.
 
-Looking more detailed at the plot, the main part of the populations are steady over the years, however an increasing can be seen in the districts _Amager Vest_, _Vesterbro - Kongens Enghave_ and _Valby_. From these districts an increasing are respectively calculated to $42983, 30608$ and $19571$. \
-Focusing on Amager Vest, it is possible to plot the associated trend in bike spots over the years. It can be seen that there is a small increase in bike racks and bike spots during the years. Specially from July 2014 to February 2017, the amount of bike racks and spots are increasing, though the general increase of bike racks and spots do not follows the increase of population in Amager Vest. \
-When plotting the amount of spots and the population for Vesterbro - Kongens Enghave, the amount of bike spots more or less steady from 2001 to 2016. In 2017 a huge change can be seen, which indicates that the municipality made an effort to follow the increase in population. 
+A closer analysis of the plot reveals that while the populations of most districts remain relatively stable over the years, notable increases stand out in _Amager Vest_, _Vesterbro - Kongens Enghave_ and _Valby_. Specifically, these districts have experienced population increases of $42,983$, $30,608$, and $19,571$ respectively.
+
+Focusing on Amager Vest, the corresponding trend in bike spots over time can be plotted. A noticeable increase is observed in bike spots, especially from July 2014 to February 2017. Interestingly, this increasing in bike infrastructure does not directly correlate with the population growth in Amager Vest. \
+When examining the data for Vesterbro - Kongens Enghave, the number of bike spots remains relatively stable from 2001 to 2016. However, a significant change occurs in 2017, indicating proactive efforts by the municipality to accommodate the population growth.\
+For the final district, Valby, which experienced an increase over the 24 years, an analysis of the trends in bike spots and population can reveal a parallel growth in population and the cumulative number of bike spots. Despite the increase in population, there is no corresponding increase in bike spots.
 
 __Geographical analysis of bikespot within Copenhagen (V)__
  Copenhagen is know globally for its cycling culture and presents an ideal casestudy for understanding the dynamics of urban bike trafic. To convince the dayly comuters of Copenhagen to grab their bike in prefrence to a car, when comuting trough the city, it is nessesary that the city offers a sufficient and convinient infrastructure for bike trafic. 
