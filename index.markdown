@@ -25,7 +25,7 @@ Secondly we have the population data, this data contains the population number w
 
 Lastly we have the Bike stands data. It contains various information about the number and placement of bike stands in Copenhagen. In addition to this dataset, we have utilized the dataset called 'Bydele' *from opendata.dk*, which includes a GeoJSON file over the different city part of Copenhagen.
 
-__Trends and patterns of (III)__
+__Trends and patterns of XXXXX (III)__
 XXX Intro XXX
 ![One time-series / bar chart](/A3/168hourplot.png)
 _Figure 1: A 168 hour barplot showing the patterns for each hour in a week._
@@ -43,6 +43,20 @@ _Figure 2: A monthly barplot showing the number of bikes total whithin that mont
 
 __Comparison (IV)__
 
+XXX Introductio  XXX
+
+<embed 
+       type="text/html" 
+       src="Knorsker.github.io\A3\bokeh_population_spots.html"
+       width="1200"
+       height="500">
+_Figure 3: Jitterplot over the prostitution incidents for each police department._
+
+The first thing that can be seen in the interactive plot is the population of the different districts in Copenhagen. The populations are plotted from year 2000 to year 2024 measured every quarter of the year from 2002 to 2024 and one time in 2000 and 2001. Moreover it is possible to plot accumulated amount of bike spots in the different districts over the years. The start value of the for the accumulated sum is total amount of bike spots with no registration date. 
+
+Looking more detailed at the plot, the main part of the populations are steady over the years, however an increasing can be seen in the districts _Amager Vest_, _Vesterbro - Kongens Enghave_ and _Valby_. From these districts an increasing are respectively calculated to $42983, 30608$ and $19571$. \
+Focusing on Amager Vest, it is possible to plot the associated trend in bike spots over the years. It can be seen that there is a small increase in bike racks and bike spots during the years. Specially from July 2014 to February 2017, the amount of bike racks and spots are increasing, though the general increase of bike racks and spots do not follows the increase of population in Amager Vest. \
+When plotting the amount of spots and the population for Vesterbro - Kongens Enghave, the amount of bike spots more or less steady from 2001 to 2016. In 2017 a huge change can be seen, which indicates that the municipality made an effort to follow the increase in population. 
 
 __Geographical analysis of bikespot within Copenhagen (V)__
 
