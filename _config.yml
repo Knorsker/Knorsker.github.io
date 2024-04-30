@@ -21,7 +21,7 @@
 title: Social Data Analysis and Visualization
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-Welcome to our platform dedicated to examining..... (Rediger i config.yml ) 
+Welcome to our platform dedicated to examining
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://knorsker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jbersej
