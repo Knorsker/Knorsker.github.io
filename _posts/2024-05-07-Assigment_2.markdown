@@ -7,7 +7,22 @@ __Introduction (I)__\
 
 
 
-__Trends and patterns of (II)__\
+
+__Data (II)__\
+
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
+
+|Year| 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 
+|--------|--------|---------|-----------|----------|--------|----------|--------|--------|--------|--------|
+|No. Streets|  4  |   12  | 12      | 12     | 13   | 13     | 13   |12   |13   |9   |
+
+_Table 1: Number of streets, where data is measured from._
+</div>
+
+
+__Trends and patterns of (III)__\
 ![One time-series / bar chart](/A3/168hourplot.png)
 _Figure 1: Barplot._
 
@@ -15,13 +30,13 @@ _Figure 1: Barplot._
 _Figure 2: Barplot._
 
 
-__Geographical analysis of bikespot within Copenhagen (III)__
+__Geographical analysis of bikespot within Copenhagen (IV)__
 
 
-__(IV)__
+__(V)__
 
 
-__Discussion and Conclusion (V)__
+__Discussion and Conclusion (VI)__
 
 
 __Contributions__
