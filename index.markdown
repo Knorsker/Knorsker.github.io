@@ -43,14 +43,14 @@ _Figure 2: A monthly barplot showing the number of bikes total whithin that mont
 
 __Comparison (IV)__
 
-XXX Introductio  XXX
+XXX Introduction  XXX
 
 <embed 
        type="text/html" 
-       src="Knorsker.github.io\A3\bokeh_population_spots.html"
+       src="A3\bokeh_population_spots.html"
        width="1200"
        height="500">
-_Figure 3: Jitterplot over the prostitution incidents for each police department._
+_Figure Y: JFIGURE TEXT._
 
 The first thing that can be seen in the interactive plot is the population of the different districts in Copenhagen. The populations are plotted from year 2000 to year 2024 measured every quarter of the year from 2002 to 2024 and one time in 2000 and 2001. Moreover it is possible to plot accumulated amount of bike spots in the different districts over the years. The start value of the for the accumulated sum is total amount of bike spots with no registration date. 
 
