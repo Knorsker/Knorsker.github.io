@@ -37,8 +37,8 @@ It can also be seen that there are more peolple during the night in the weekend 
 <embed 
        type="text/html" 
        src="A3\Bokeh_monthly.html"
-       width="1100"
-       height="450">
+       width="600"
+       height="400">
 _Figure 2: A monthly barplot showing the number of bikes total whithin that month._
 
 - General fewer bikes in the winter months
