@@ -49,7 +49,7 @@ XXX Introduction  XXX
        type="text/html" 
        src="A3\bokeh_population_spots.html"
        width="1100"
-       height="450">
+       height="430">
 _Figure Y: JFIGURE TEXT._
 
 The first thing that can be seen in the interactive plot is the population of the different districts in Copenhagen. The populations are plotted from year 2000 to year 2024 measured every quarter of the year from 2002 to 2024 and one time in 2000 and 2001. Moreover it is possible to plot accumulated amount of bike spots in the different districts over the years. The start value of the for the accumulated sum is total amount of bike spots with no registration date. 
@@ -59,7 +59,11 @@ Focusing on Amager Vest, it is possible to plot the associated trend in bike spo
 When plotting the amount of spots and the population for Vesterbro - Kongens Enghave, the amount of bike spots more or less steady from 2001 to 2016. In 2017 a huge change can be seen, which indicates that the municipality made an effort to follow the increase in population. 
 
 __Geographical analysis of bikespot within Copenhagen (V)__
+ Copenhagen is know globally for its cycling culture and presents an ideal casestudy for understanding the dynamics of urban bike trafic. To convince the dayly comuters of Copenhagen to grab their bike in prefrence to a car, when comuting trough the city, it is nessesary that the city offers a sufficient and convinient infrastructure for bike trafic. 
 
+Every cyclist needs a place to securely park their bike upon arriving at their destination. Failure to meet this infrastructure need can lead to a situation where commuters struggle to find available parking spots for their bikes. In rush situations, they may park their bikes purposelessly next to others, obstructing sidewalks or impeding others' access to their bikes. Many commuters are familiar with the frustration of digging their bikes from a pile of abandoned bicycles before staring their comute. The lack of bikeracks dose therby not only creating a messy cityscape but also makes it less atrictive for comuters to use their bike. 
+
+The strategic placement of bike racks serves as a reflection of the city's effort to support cycling as a primary mode of transportation. It is therefore interesting to look at the placement of bikeracks acroos the city to evaluate which current need are prioritised and which districs could use resources to support cycling as a viable transportation option 
 
 __Discussion and Conclusion (VI)__
 
