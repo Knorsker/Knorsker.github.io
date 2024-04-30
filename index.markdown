@@ -4,26 +4,22 @@ layout: default
 *Updated: {% assign copenhagen_time = site.time | date: "%d-%m-%Y %H:%M:%S" | date: "%s" | plus: 3600 | date: "%d-%m-%Y %H:%M:%S" %}{{ copenhagen_time }}*
 
 
-__Introduction (I)__\
+__Introduction (I)__
 
 
 
 
-__Data (II)__\
-
-<div style="margin-left: auto;
-            margin-right: auto;
-            width: 50%">
+__Data (II)__
 
 |Year| 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 
 |--------|--------|---------|-----------|----------|--------|----------|--------|--------|--------|--------|
 |No. Streets|  4  |   12  | 12      | 12     | 13   | 13     | 13   |12   |13   |9   |
 
 _Table 1: Number of streets, where data is measured from._
-</div>
 
 
-__Trends and patterns of (III)__\
+
+__Trends and patterns of (III)__
 ![One time-series / bar chart](/A3/168hourplot.png)
 _Figure 1: Barplot._
 
