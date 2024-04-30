@@ -24,6 +24,7 @@ _Table 1: Number of streets, where data is measured from._
 Secondly we have the population data, this data contains the population number within each city part in Copenhagen.
 
 
+Bikestands/
 It contains various information about the number and placement of bike stands in Copenhagen. We have utilized both the CSV file and GeoJSON file to enable various plot options. In addition to these two files, we have also utilized the dataset called 'Bydele,' which includes a GeoJSON file. This file is used to plot the placement and number of bike stands in different parts of the city on a map.
 
 __Trends and patterns of (III)__
