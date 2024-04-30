@@ -49,7 +49,7 @@ XXX Introduction  XXX
        type="text/html" 
        src="A3\bokeh_population_spots.html"
        width="1100"
-       height="500">
+       height="460">
 _Figure Y: JFIGURE TEXT._
 
 The first thing that can be seen in the interactive plot is the population of the different districts in Copenhagen. The populations are plotted from year 2000 to year 2024 measured every quarter of the year from 2002 to 2024 and one time in 2000 and 2001. Moreover it is possible to plot accumulated amount of bike spots in the different districts over the years. The start value of the for the accumulated sum is total amount of bike spots with no registration date. 
