@@ -25,8 +25,7 @@ Secondly we have the population data, this data contains the population number w
 
 
 Bikestands/
-Lastly we have the Bike stands data,
-It contains various information about the number and placement of bike stands in Copenhagen. We have utilized both the CSV file and GeoJSON file to enable various plot options. In addition to these two files, we have also utilized the dataset called 'Bydele,' which includes a GeoJSON file. This file is used to plot the placement and number of bike stands in different parts of the city on a map.
+Lastly we have the Bike stands data. It contains various information about the number and placement of bike stands in Copenhagen. In addition to this dataset, we have utilized the dataset called 'Bydele' *from opendata.dk*, which includes a GeoJSON file over the different city part of Copenhagen.
 
 __Trends and patterns of (III)__
 ![One time-series / bar chart](/A3/168hourplot.png)
