@@ -30,7 +30,7 @@ _Figure 2: Barplot._
 __Geographical analysis of bikespot within Copenhagen (IV)__
 
 
-__(V)__
+__Comparison(V)__
 
 
 __Discussion and Conclusion (VI)__
