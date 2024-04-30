@@ -28,7 +28,7 @@ Lastly we have the Bike stands data. It contains various information about the n
 __Trends and patterns of (III)__
 
 ![One time-series / bar chart](/A3/168hourplot.png)
-_Figure 1: Barplot._
+_Figure 1: A 168 hour barplot showing the patterns for each hour in a week._
 
 ![One time-series / bar chart](/A3/monthlyplot.png)
 _Figure 2: Barplot._
