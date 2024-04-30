@@ -34,7 +34,7 @@ Looking at *figure 1* it can clearly be seen that their is a certain pattern for
 It can also be seen that there are more peolple during the night in the weekend compared to night in the weekdays.
 
 ![One time-series / bar chart](/A3/monthlyplot.png)
-_Figure 2: A monthly barplot, showing the number of bikes total whithin that month._
+_Figure 2: A monthly barplot showing the number of bikes total whithin that month._
 
 
 __Comparison (IV)__
