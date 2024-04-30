@@ -31,7 +31,7 @@ __Trends and patterns of (III)__
 _Figure 1: A 168 hour barplot showing the patterns for each hour in a week._
 
 ![One time-series / bar chart](/A3/monthlyplot.png)
-_Figure 2: Barplot._
+_Figure 2: A monthly barplot, showing the number of bikes total whithin that month._
 
 
 __Comparison (IV)__
