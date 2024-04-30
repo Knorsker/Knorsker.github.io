@@ -86,6 +86,7 @@ _Figure Y: XXX_
        height="350">
 _Figure Y: XXX_
 
+INDSÆT RESTEN AF TEKSTEN
 
 
 __Discussion and Conclusion (VI)__
