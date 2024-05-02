@@ -42,7 +42,7 @@ _Figure 2: A monthly barplot showing the number of bikes total whithin that mont
 
 To gain better insight into the biking habits of people in Copenhagen throughout the year, a bar plot is created for each year with available data, see *Figure 2*. The plot shows the number of bikes counted in Copenhagen for each month, where it is possible to selcet the desired year in the box beside the plot. 
 
-Examining the *figure 2*, we see that some of the data is insufficient as for example for year 2005, there are no bikes in December. We also see an odd number of bikes in Febuary to May in year 2012, which is very low compared to the rest of the year, and the neighbooring years. The same applies for 2006, where the first five months also has a low density of bikes. For 2010, we see a low number of bikes in the early.
+Examining the *figure 2*, it is evident that some of the data is insufficient. For instance, in 2005, there are no recorded bike counts in December. Additionally, an odd number of bikes in Febuary to May in year 2012, which is very low compared to the rest of the year, and the neighbooring years. The same applies for 2006, where the first five months also has a low density of bikes. For 2010, we see a low number of bikes in the early.
 
 There may be many reason for these variations over the years. For an example in 2012, we have found a [local article](https://www.dr.dk/nyheder/vejret/februar-er-historisk-den-koldeste-maaned) telling that febuary was a historical cold since 1947, which may have been effecting the danes bikes patterns. The consisting of low bikes in 2006, seems strange, and examing at the data for 2012 it became clear that 2/3 of the streets measured from, only have data starting from June.
 
