@@ -41,9 +41,9 @@ It can also be seen that there are more peolple during the night in the weekend 
        height="400">
 _Figure 2: A monthly barplot showing the number of bikes total whithin that month._
 
-To get a better insight of how people in Copehagen tends to bike over all the year, a bar plot is created of each year, that we have data from, figure 2. This plot shows the number of bikes counted in each month within Copenhagen for each year, where it is possible to selcet the year in the box beside the plot. 
+To get a better insight of how people in Copehagen tends to bike over all the year, a bar plot is created of each year, that we have data from, see *figure 2*. This plot shows the number of bikes counted in each month within Copenhagen for each year, where it is possible to selcet the year in the box beside the plot. 
 
-Examining the figure 2, we see that some of the data is insufficient as for example for year 2005, there are no bikes in December. We also see an odd number of bikes in Febuary to May in year 2012, which is very low compared to the rest of the year, and the neighbooring years. The same applies for 2006, where the first five months also has a low density of bikes. For 2010, we see a low number of bikes in the early.
+Examining the *figure 2*, we see that some of the data is insufficient as for example for year 2005, there are no bikes in December. We also see an odd number of bikes in Febuary to May in year 2012, which is very low compared to the rest of the year, and the neighbooring years. The same applies for 2006, where the first five months also has a low density of bikes. For 2010, we see a low number of bikes in the early.
 
 There may be many reason for these variations over the years. For an example in 2012, we have found a local article telling that febuary was a historical cold since 1947, which may have been effecting the danes bikes patterns.
 https://www.dr.dk/nyheder/vejret/februar-er-historisk-den-koldeste-maaned
