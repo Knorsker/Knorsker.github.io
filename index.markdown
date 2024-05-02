@@ -25,7 +25,7 @@ Secondly we have the population data, this data contains the population number w
 
 Lastly we have the Bike stands data. It contains various information about the number and placement of bike stands in Copenhagen. In addition to this dataset, we have utilized the dataset called 'Bydele' *from opendata.dk*, which includes a GeoJSON file over the different city part of Copenhagen.
 
-__Trends and patterns of XXXXX (III)__
+__Trends and patterns of XXXXX (III)__\
 XXX Intro XXX
 ![One time-series / bar chart](/A3/168hourplot.png)
 _Figure 1: A 168 hour barplot showing the patterns for each hour in a week._
@@ -41,12 +41,16 @@ It can also be seen that there are more peolple during the night in the weekend 
        height="400">
 _Figure 2: A monthly barplot showing the number of bikes total whithin that month._
 
-- General fewer bikes in the winter months
-- No data in december for year 2005.
-- odd low in the first half year of 2006 (Undersøg)
-- 2012 has lower density of bikes in the first 5 months
+To get a better insight of how people in Copehagen tends to bike over all the year, a bar plot is created of each year, that we have data from, figure 2. This plot shows the number of bikes counted in each month within Copenhagen for each year, where it is possible to selcet the year in the box beside the plot. 
 
-__Comparison (IV)__
+Examining the figure 2, we see that some of the data is insufficient as for example for year 2005, there are no bikes in December. We also see an odd number of bikes in Febuary to May in year 2012, which is very low compared to the rest of the year, and the neighbooring years. The same applies for 2006, where the first five months also has a low density of bikes. For 2010, we see a low number of bikes in the early.
+
+There may be many reason for these variations over the years. For an example in 2012, we have found a local article telling that febuary was a historical cold since 1947, which may have been effecting the danes bikes patterns.
+https://www.dr.dk/nyheder/vejret/februar-er-historisk-den-koldeste-maaned
+
+Looking at the general patterns for all years, we see that it is the June, August and September that has the heighest density of bikes, while the winter months are often the lowest. Other than that it is possible to see that July is often lower than the neighbor months. Thismay be caused by danes, often having vaction in this month, and may be out of the city. All schools has summer vacation in July, so childeren biking to school, may not be as often on the bike lane in this month.
+
+__Comparison (IV)__\
 
 XXX Introduction  XXX
 
@@ -66,7 +70,7 @@ Focusing on Amager Vest, the corresponding trend in bike spots over time can be 
 When examining the data for Vesterbro - Kongens Enghave, the number of bike spots remains relatively stable from 2001 to 2016. However, a significant change occurs in 2017, indicating proactive efforts by the municipality to accommodate the population growth.\
 For the final district, Valby, which experienced an increase over the 24 years, an analysis of the trends in bike spots and population can reveal a parallel growth in population and the cumulative number of bike spots. Despite the increase in population, there is no corresponding increase in bike spots.
 
-__Geographical analysis of bikespot within Copenhagen (V)__
+__Geographical analysis of bikespot within Copenhagen (V)__\
  Copenhagen is know globally for its cycling culture and presents an ideal casestudy for understanding the dynamics of urban bike trafic. To convince the dayly comuters of Copenhagen to grab their bike in prefrence to a car, when comuting trough the city, it is nessesary that the city offers a sufficient and convinient infrastructure for bike trafic. 
 
 Every cyclist needs a place to securely park their bike upon arriving at their destination. Failure to meet this infrastructure need can lead to a situation where commuters struggle to find available parking spots for their bikes. In rush situations, they may park their bikes purposelessly next to others, obstructing sidewalks or impeding others' access to their bikes. Many commuters are familiar with the frustration of digging their bikes from a pile of abandoned bicycles before staring their comute. The lack of bikeracks dose therby not only creating a messy cityscape but also makes it less atrictive for comuters to use their bike. 
