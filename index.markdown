@@ -48,7 +48,7 @@ Examining the *figure 2*, we see that some of the data is insufficient as for ex
 There may be many reason for these variations over the years. For an example in 2012, we have found a [local article](https://www.dr.dk/nyheder/vejret/februar-er-historisk-den-koldeste-maaned) telling that febuary was a historical cold since 1947, which may have been effecting the danes bikes patterns. The consisting of low bikes in 2006, seems strange, and examing at the data for 2012 it became clear that 2/3 of the streets the data is contained from, only have that starting from June.
 
 
-Looking at the general patterns for all years, we see that it is the June, August and September that has the heighest density of bikes, while the winter months are often the lowest. Other than that it is possible to see that July is often lower than the neighbor months. Thismay be caused by danes, often having vaction in this month, and may be out of the city. All schools has summer vacation in July, so childeren biking to school, may not be as often on the bike lane in this month.
+Looking at the general patterns for all years, we see that it is the June, August and September that has the heighest density of bikes, while the winter months are often the lowest. Other than that it is possible to see that July is often lower than the neighbor months. This may be caused by danes, often having vaction in this month, and may be out of the city. All schools has summer vacation in July, so childeren biking to school, may not be as often on the bike lane in this month.
 
 __Comparison (IV)__
 
