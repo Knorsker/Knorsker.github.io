@@ -50,6 +50,9 @@ There may be many reason for these variations over the years. For an example in 
 
 Looking at the general patterns for all years, we see that it is the June, August and September that has the heighest density of bikes, while the winter months are often the lowest. Other than that it is possible to see that July is often lower than the neighbor months. This may be caused by danes, often having vaction in this month, and may be out of the city. All schools has summer vacation in July, so childeren biking to school, may not be as often on the bike lane in this month.
 
+
+XXXXXX ADD TEXT FOR *RØD TRÅD* XXXXXXXXXX
+
 __Comparison (IV)__
 
 XXX Introduction  XXX
