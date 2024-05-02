@@ -40,7 +40,7 @@ It can also be seen that there are more peolple during the night in the weekend 
        height="400">
 _Figure 2: A monthly barplot showing the number of bikes total whithin that month._
 
-To get a better insight of how people in Copehagen tends to bike over all the year, a bar plot is created of each year, that we have data from, see *figure 2*. This plot shows the number of bikes counted in each month within Copenhagen for each year, where it is possible to selcet the year in the box beside the plot. 
+To gain better insight into the biking habits of people in Copenhagen throughout the year, a bar plot is created for each year with available data, see *Figure 2*. The plot shows the number of bikes counted in Copenhagen for each month, where it is possible to selcet the desired year in the box beside the plot. 
 
 Examining the *figure 2*, we see that some of the data is insufficient as for example for year 2005, there are no bikes in December. We also see an odd number of bikes in Febuary to May in year 2012, which is very low compared to the rest of the year, and the neighbooring years. The same applies for 2006, where the first five months also has a low density of bikes. For 2010, we see a low number of bikes in the early.
 
