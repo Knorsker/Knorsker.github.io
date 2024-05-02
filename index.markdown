@@ -30,8 +30,7 @@ XXX Intro XXX
 ![One time-series / bar chart](/A3/168hourplot.png)
 _Figure 1: A 168 hour barplot showing the patterns for each hour in a week._
 
-Looking at *figure 1* it can clearly be seen that their is a certain pattern for the weekdays each year. The two spikes for each day shows where there is rush hour. Furthermore it also shows that there are fewer that cycle during the weekend. 
-It can also be seen that there are more peolple during the night in the weekend compared to night in the weekdays.
+Examining *Figure 1*, a distinct pattern gradually becomes apparent, revealing consistent trends for weekdays across each year. The appearance of two distinct peaks on each weekday serves as a clear indicator of rush hour periods, indicating peak times of cycling activity within the city. Furthermore, a noticeable decrease in the number of cyclists is observed during the weekends. Additionally, it's visible that more people are out cycling at night on weekends compared to weekdays. This could be because of the city's nightlife and social events.
 
 <embed 
        type="text/html" 
