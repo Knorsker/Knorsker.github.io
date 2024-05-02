@@ -33,7 +33,6 @@ _Figure 1: A 168 hour barplot showing the patterns for each hour in a week._
 Looking at *figure 1* it can clearly be seen that their is a certain pattern for the weekdays each year. The two spikes for each day shows where there is rush hour. Furthermore it also shows that there are fewer that cycle during the weekend. 
 It can also be seen that there are more peolple during the night in the weekend compared to night in the weekdays.
 
-<!-- ![One time-series / bar chart](/A3/monthlyplot.png) -->
 <embed 
        type="text/html" 
        src="A3\Bokeh_monthly.html"
