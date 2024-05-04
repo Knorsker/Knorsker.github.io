@@ -5,7 +5,8 @@ layout: default
 
 
 __Introduction (I)__
-[Notebook](A3\Notebook.ipynb)
+
+To get our Notebook click [HERE](A3\Notebook.ipynb)
 
 
 
