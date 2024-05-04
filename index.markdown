@@ -26,9 +26,6 @@ Secondly we have the population data, this data contains the population number w
 
 Lastly we have the Bike stands data. It contains various information about the number and placement of bike stands in Copenhagen. In addition to this dataset, we have utilized the dataset called 'Bydele' from *opendata.dk*, which includes a GeoJSON file over the different city part of Copenhagen.
 
-<div style="margin-left: auto;
-            margin-right: auto;
-            width: 80%">
 
 | | Amager Vest | Amager Øst | Bispebjerg | Brønshøj-Husum | Indre By | Nørrebro | Valby | Vanløse | Vesterbro - Kongens Enghave | Østerbro | 
 |--------|-----------|------------|-----------|----------|-----------|----------|--------|--------|--------|--------|
@@ -37,10 +34,8 @@ Lastly we have the Bike stands data. It contains various information about the n
 |  Not registred  |  32  | 76  | 0  | 0   | 296    | 4   |1   |0   |23   | 83 |
 | Proportion of public | ~59,4\%| ~50,2\% | ~23,1\% |~43,8\%|~51,5\%|~46,9\%|~44,8\%|~25\%|~49,7\%|~36,0\%|
 
-
-
 _Table 2: Amount of public, private and not registred bike racks._
-</div>
+
 
 
 
