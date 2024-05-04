@@ -128,12 +128,4 @@ While the inner districts may naturally attract more attention and investment in
 __Discussion and Conclusion (VI)__
 
 
-__Contributions__
-
-| Part | s214704 | s214725 | s204112 |
-|------|---------|---------|---------|
-| I    |         |         |         |
-| II   |         |         |         |
-| III  |         |         |         |
-| IV   |         |         |         |
 
