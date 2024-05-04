@@ -5,7 +5,7 @@ layout: default
 
 
 __Introduction (I)__
-
+[Notebook](A3\Notebook.ipynb)
 
 
 
