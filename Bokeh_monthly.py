@@ -1,7 +1,7 @@
 import pandas as pd
 from bokeh.palettes import Category20b
 from bokeh.plotting import figure, show
-from bokeh.models import ColumnDataSource, FactorRange, Legend
+from bokeh.models import ColumnDataSource, FactorRange, Legend, NumeralTickFormatter
 
 # List of file paths for the datasets
 file_paths = [
@@ -63,5 +63,9 @@ p.add_layout(legend, 'right')
 
 p.legend.click_policy = "mute"
 p.y_range.start = 0
+
+
+# Format y-axis ticks
+p.yaxis.formatter = NumeralTickFormatter(format='0')
 
 show(p)
