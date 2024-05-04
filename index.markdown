@@ -32,7 +32,7 @@ Lastly we have the Bike stands data. It contains various information about the n
 |  Public  |   221  | 125      | 45    | 53   | 864    | 372   |91   |25   |456   | 506 |
 |  Private     |   119  | 48     | 150   | 68   | 518    | 418   |111   |75   |438  | 818 |
 |  Not registred  |  32  | 76  | 0  | 0   | 296    | 4   |1   |0   |23   | 83 |
-| Proportion of public | ~59,4\%| ~50,2\% | ~23,1\% |~43,8\%|~51,5\%|~46,9\%|~44,8\%|~25\%|~49,7\%|~36,0\%|
+| Proportion of public | ~59,4%| ~50,2% | ~23,1% |~43,8%|~51,5%|~46,9%|~44,8%|25%|~49,7%|~36,0%|
 
 _Table 2: Amount of public, private and not registred bike racks._
 
