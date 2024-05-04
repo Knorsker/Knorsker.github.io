@@ -99,7 +99,16 @@ _Figure Y: XXX_
        height="350">
 _Figure Y: XXX_
 
-INDSÆT RESTEN AF TEKSTEN
+The first geoplot shows the placement of each registred bikerack as well as the total number of bikespots pr districts. This plot shows that the region Indre By is the district with the most registred bikespots with 26731 bikespots. The outer nordwest districs Valby, Vanløse, Brønshøj-Husum and Bispebjerg all have a number of bikeracks in the range 1500-3000. Looking at the geogorapical placement of each dataplot it can be seen that major roads such as Frederikssundvej, Amagerbrogade and Østerbrograde are traced out as many bikeracks are placed on these streets.
+
+
+The secound geoplot shows the placement of each registred bikerack as well as the total number of bikespots pr m2 pr districts. This is to showcase the density of the number of bikespots acroos the differet districs. This plots shows that the density of bikeracks are higher in the inner districs compared to the outer districs. The first and the secound geoplot roughly shows the same tendency as most of the districs in copenhagen have rougly the same area. Smaller regions as Nørrebro is rated sligtly better, while larger regions as Amager Vest are rated sligtly worse.
+
+The third geoplot shows the placement of each registred bikerack as well as the total number of bikespots pr citizen pr districts. The aim of this plot is also to show the density of bikeplots acroos the different districs, but in perspective of the population of the disdrict. It is interesting to see the range of these numbers. In the North-West district of Copenhagen is there only 0.02 bikespots pr citizan, while there is 0.40 bikespots pr citizen in Indre By. This means that bikespots are much more accesable in Indre By compared to the outer districs. 
+
+Overall the three geoplots roughly showcases the same tendencies. The data suggests a significantly higher concentration of bike racks in the inner districts compared to the outer areas. This could be as the inner districts of Copenhagen serve as major employment hubs, attracting a significant influx of commuters on a daily basis. As a result, there is a greater demand for cycling infrastructure in these areas to accommodate the commuting needs of residents and workers.
+
+While the inner districts may naturally attract more attention and investment in terms of bike infrastructure due to higher demand and visibility, efforts should be made to ensure that outer districts receive adequate resources to support cycling as a viable transportation option.
 
 
 __Discussion and Conclusion (VI)__
