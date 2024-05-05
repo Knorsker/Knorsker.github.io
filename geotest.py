@@ -125,7 +125,6 @@ app.layout = html.Div([
     Input("unit", "value"))
 def display_choropleth(unit):
     print("Selected unit:", unit)  # Print the selected unit for debugging
-    print("District data:", district_data)  # Print district data for debugging
 
     # Your existing code...
     fig = px.choropleth_mapbox(
