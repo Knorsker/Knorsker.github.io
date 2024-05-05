@@ -85,6 +85,10 @@ Focusing on Amager Vest, the corresponding trend in bike spots over time can be 
 When examining the data for Vesterbro - Kongens Enghave, the number of bike spots remains relatively stable from 2001 to 2016. However, a significant change occurs in 2017, indicating proactive efforts by the municipality to accommodate the population growth.\
 For the final district, Valby, which experienced an increase over the 24 years, an analysis of the trends in bike spots and population can reveal a parallel growth in population and the cumulative number of bike spots. Despite the increase in population, there is no corresponding increase in bike spots.
 
+When plotting the cumulative sums of bike spots across different districts in Copenhagen, a notable increase is observed particularly in the years 2016 and 2017. Specifically, districts such as Indre By saw a significant rise of approximately 12,000 spots, followed by Vesterbro - Kongens Enghave with an increase of about 4,000 spots, and Østerbro with a rise of 2,000 spots. Conversely, districts like Vanløse, Brønshøj - Husum, and Bispebjerg exhibited minimal growth, remaining among the districts with the fewest bike spots.\
+Another noteworthy observation is the upward trend that emerged around the year 2001, during which many districts experienced growth as well. This could potentially be attributed to the initiation of the project and the implementation of bike rack and spot counting measures.
+
+
 __Geographical analysis of bikespot within Copenhagen (V)__\
  Copenhagen is know globally for its cycling culture and presents an ideal casestudy for understanding the dynamics of urban bike trafic. To convince the dayly comuters of Copenhagen to grab their bike in prefrence to a car, when comuting trough the city, it is nessesary that the city offers a sufficient and convinient infrastructure for bike trafic. 
 
