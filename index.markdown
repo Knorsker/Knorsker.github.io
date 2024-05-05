@@ -50,7 +50,7 @@ Examining *Figure 1*, a distinct pattern gradually becomes apparent, revealing c
        src="A3\Bokeh_monthly.html"
        width="600"
        height="400">
-_Figure 2: A monthly barplot showing the number of bikes total whithin that month._
+_Figure 2: Monthly bar plot illustrating total number of bikes for each month.._
 
 To gain better insight into the biking habits of people in Copenhagen throughout the year, a bar plot is created for each year with available data, see *figure 2*. The plot shows the number of bikes counted in Copenhagen for each month, where it is possible to selcet the desired year in the box beside the plot. 
 
