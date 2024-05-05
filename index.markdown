@@ -26,12 +26,19 @@ Secondly we have the population data, this data contains the population number w
 Lastly we have the bike racks data. It contains various information about bike racks in Copenhagen, i.a. the number of spots and location of the bike racks. In addition to this dataset, we have utilized the dataset called 'Bydele' from *opendata.dk*, which includes a GeoJSON file over the different districts of Copenhagen.
 
 
-| | Amager Vest | Amager Øst | Bispebjerg | Brønshøj-Husum | Indre By | Nørrebro | Valby | Vanløse | Vesterbro - Kongens Enghave | Østerbro | 
-|--------|-----------|------------|-----------|----------|-----------|----------|--------|--------|--------|--------|
-|  Public  |   221  | 125      | 45    | 53   | 864    | 372   |91   |25   |456   | 506 |
-|  Private     |   119  | 48     | 150   | 68   | 518    | 418   |111   |75   |438  | 818 |
-|  Not registred  |  32  | 76  | 0  | 0   | 296    | 4   |1   |0   |23   | 83 |
-| Proportion of public | ~59,4%| ~50,2% | ~23,1% |~43,8%|~51,5%|~46,9%|~44,8%|25%|~49,7%|~36,0%|
+|     Discrit              | Public | Private | Not registred | Proportion of public |
+|--------------------------|--------|---------|---------------|----------------------|
+| Amager Vest              | 221    | 119     | 32            | ~59.4%               |
+| Amager Øst               | 125    | 48      | 76            | ~50.2%               |
+| Bispebjerg               | 45     | 150     | 0             | ~23.1%               |
+| Brønshøj-Husum           | 53     | 68      | 0             | ~43.8%               |
+| Indre By                 | 864    | 518     | 296           | ~51.5%               |
+| Nørrebro                 | 372    | 418     | 4             | ~46.9%               |
+| Valby                    | 91     | 111     | 1             | ~44.8%               |
+| Vanløse                  | 25     | 75      | 0             | 25.0%                |
+| Vesterbro - Kongens Enghave | 456  | 438     | 23            | ~49.7%               |
+| Østerbro                 | 506    | 818     | 83            | ~36.0%               |
+
 
 _Table 2: Amount of public, private and not registred bike racks._
 
