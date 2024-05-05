@@ -158,6 +158,8 @@ _Figure 8: XXX_
 |-----------------------------|-----------------|------------------|-------------------|---------------------------|
 |         Amager Vest         |       4109      |       2644       |        1073       |           0.6435          |
 |          Amager Øst         |       3051      |       1827       |        389        |           0.5988          |
+
+
 |          Bispebjerg         |       2164      |        840       |        1324       |           0.3882          |
 |       Brønshøj - Husum      |       1808      |        959       |        849        |           0.5304          |
 |           Nørrebro          |       7354      |       3255       |        4071       |           0.4426          |
@@ -165,9 +167,10 @@ _Figure 8: XXX_
 |           Vanløse           |       1506      |        464       |        1042       |           0.3081          |
 | Vesterbro - Kongens Enghave |      10868      |       5208       |        4378       |           0.4792          |
 |           Østerbro          |      14059      |       5022       |        7486       |           0.3572          |
+
 _Table 3: XXXXX._
 
-Looking at the keynumber of *table 3* it can be seen that there are very few bikeracks in Vanløse and only 30.8\% of the bikespots in Vanløse is owned by the public. Looking at the geoplots it is seen that the density of bike racks pr citizen for Vanløse is very low. It could therby be a posiablility to invest in more bikeracks in this districs to ensure that this districs receive adequate resources to support cycling as a viable transportation option.
+Looking at the keynumber of *table 3* it can be seen that there are very few bikeracks in Vanløse and only 30.8% of the bikespots in Vanløse is owned by the public. Looking at the geoplots it is seen that the density of bike racks pr citizen for Vanløse is very low. It could therby be a posiablility to invest in more bikeracks in this districs to ensure that this districs receive adequate resources to support cycling as a viable transportation option.
 
 
 __Discussion and Conclusion (VI)__
