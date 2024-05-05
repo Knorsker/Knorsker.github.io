@@ -51,7 +51,7 @@ _Figure 1: A 168 hour barplot showing the patterns for each hour in a week._
 
 Examining *figure 1*, a distinct pattern gradually becomes apparent, revealing consistent trends for weekdays across each year. The appearance of two distinct peaks during weekdays are a clear indicator of rush hour periods, marking the busy morning and afternoon hours when the citizens commute to and from work, school, and other engagements, amplifying the cycling activity within the urban landscape. Furthermore, a noticeable decrease in the number of cyclists is observed during the weekends. Additionally, it's visible that more people are out cycling at night on weekends compared to weekdays. This could be because of the city's nightlife and social events.
 
-XXX Noget om forskellen fra år til år i figur 1 XXX
+Comparing all the years, it can be seen that they often have the same number of bikes throughout the hours of the day. However, 2014 stands out, with significantly higher numbers during rush hours, reaching a maximum of almost 750 bikes. In 2012, the spikes during rush hours are not as noticeable compared to the other years, and there are also more bikes during the daytime on weekdays.
 
 <embed 
        type="text/html" 
