@@ -104,28 +104,28 @@ The strategic placement of bike racks serves as a reflection of the city's effor
        src="A3\Geoplot_antal_pladser.html"
        width="1100"
        height="350">
-_Figure Y: XXX_
+_Figure 4: XXX_
 
 <embed 
        type="text/html" 
        src="A3\Geoplot_antal_pladser_per_m2.html"
        width="1100"
        height="350">
-_Figure Y: XXX_
+_Figure 5: XXX_
 
 <embed 
        type="text/html" 
        src="A3\Geoplot_antal_pladser_per_befolkning.html"
        width="1100"
        height="350">
-_Figure Y: XXX_
+_Figure 6: XXX_
 
-The first geoplot shows the placement of each registred bikerack as well as the total number of bikespots pr districts. This plot shows that the region Indre By is the district with the most registred bikespots with 26731 bikespots. The outer nordwest districs Valby, Vanløse, Brønshøj-Husum and Bispebjerg all have a number of bikeracks in the range 1500-3000. Looking at the geogorapical placement of each dataplot it can be seen that major roads such as Frederikssundvej, Amagerbrogade and Østerbrograde are traced out as many bikeracks are placed on these streets.
+The first geoplot (*figure 4*) shows the placement of each registred bikerack as well as the total number of bikespots pr districts. This plot shows that the region Indre By is the district with the most registred bikespots with 26731 bikespots. The outer nordwest districs Valby, Vanløse, Brønshøj-Husum and Bispebjerg all have a number of bikeracks in the range 1500-3000. Looking at the geogorapical placement of each dataplot it can be seen that major roads such as Frederikssundvej, Amagerbrogade and Østerbrograde are traced out as many bikeracks are placed on these streets.
 
 
-The secound geoplot shows the placement of each registred bikerack as well as the total number of bikespots pr m2 pr districts. This is to showcase the density of the number of bikespots acroos the differet districs. This plots shows that the density of bikeracks are higher in the inner districs compared to the outer districs. The first and the secound geoplot roughly shows the same tendency as most of the districs in copenhagen have rougly the same area. Smaller regions as Nørrebro is rated sligtly better, while larger regions as Amager Vest are rated sligtly worse.
+The second geoplot, *figure 5* shows the placement of each registred bikerack as well as the total number of bikespots pr m2 pr districts. This is to showcase the density of the number of bikespots acroos the differet districs. This plots shows that the density of bikeracks are higher in the inner districs compared to the outer districs. The first and the secound geoplot roughly shows the same tendency as most of the districs in copenhagen have rougly the same area. Smaller regions as Nørrebro is rated sligtly better, while larger regions as Amager Vest are rated sligtly worse.
 
-The third geoplot shows the placement of each registred bikerack as well as the total number of bikespots pr citizen pr districts. The aim of this plot is also to show the density of bikeplots acroos the different districs, but in perspective of the population of the disdrict. It is interesting to see the range of these numbers. In the North-West district of Copenhagen is there only 0.02 bikespots pr citizan, while there is 0.40 bikespots pr citizen in Indre By. This means that bikespots are much more accesable in Indre By compared to the outer districs. 
+*Figure 6*, third geoplot shows the placement of each registred bikerack as well as the total number of bikespots pr citizen pr districts. The aim of this plot is also to show the density of bikeplots acroos the different districs, but in perspective of the population of the disdrict. It is interesting to see the range of these numbers. In the North-West district of Copenhagen is there only 0.02 bikespots pr citizan, while there is 0.40 bikespots pr citizen in Indre By. This means that bikespots are much more accesable in Indre By compared to the outer districs. 
 
 Overall the three geoplots roughly showcases the same tendencies. The data suggests a significantly higher concentration of bike racks in the inner districts compared to the outer areas. This could be as the inner districts of Copenhagen serve as major employment hubs, attracting a significant influx of commuters on a daily basis. As a result, there is a greater demand for cycling infrastructure in these areas to accommodate the commuting needs of residents and workers.
 
@@ -137,11 +137,11 @@ While the inner districts may naturally attract more attention and investment in
        src="A3\Geoplot_density.html"
        width="1100"
        height="350">
-_Figure Y: XXX_
+_Figure 7: XXX_
 
-The plot above shows the placement of each registred bikerack, where the size and opacity of each dot is corrrelated to the number of spots for the given bikerack, as well as the total number of bikespots pr districts. This is to show the density of bikerakcs across copenhagen and the density of clusteres within the districs. The opacity for each dot is linear to the size. This fuction is choosen such that a cluster of bikeracks nearby eachother is shown more clearly as the opacity for each datapoint is added up. The size of each dot is also a linear fuction of the size. This fuction is choosen to favor larger bikeracks as a bikerack of 240 bikespots physically takes up more space than 2 bikespots.  Here it can be seen that large culsters of bikerakcs are localed at major train and bus stations such as Valby station, Carlsberg station, Hovedbanegården, Nøreport station and Husum station. Looking at districs on Amager, most the major bikeracks are also located along metro stops on the M1 metro line and M2 metro line. This showcases how it is a priority to make it asseciable to connect biketraffic with public transport. This is to support the comuters that travel a longer distance, where they prefere not to bike all the way. This is also to support the many commuters that uses puclic transport to travel to the city or out of the city.
+*Figure 7* shows the placement of each registred bikerack, where the size and opacity of each dot is corrrelated to the number of spots for the given bikerack, as well as the total number of bikespots pr districts. This is to show the density of bikerakcs across copenhagen and the density of clusteres within the districs. The opacity for each dot is linear to the size. This fuction is choosen such that a cluster of bikeracks nearby eachother is shown more clearly as the opacity for each datapoint is added up. The size of each dot is also a linear fuction of the size. This fuction is choosen to favor larger bikeracks as a bikerack of 240 bikespots physically takes up more space than 2 bikespots.  Here it can be seen that large culsters of bikerakcs are localed at major train and bus stations such as Valby station, Carlsberg station, Hovedbanegården, Nøreport station and Husum station. Looking at districs on Amager, most the major bikeracks are also located along metro stops on the M1 metro line and M2 metro line. This showcases how it is a priority to make it asseciable to connect biketraffic with public transport. This is to support the comuters that travel a longer distance, where they prefere not to bike all the way. This is also to support the many commuters that uses puclic transport to travel to the city or out of the city.
 
-This plot allso shows how the dentity of bikerakcs are unevenly distributed within each districs. Lookling at Vesterbro-Kongesn Enghave it can be seen that most bikeracks within this districs are located at Vesterbro which is the part of the districs closest to center of the city. 
+This plot also shows how the dentity of bikerakcs are unevenly distributed within each districs. Lookling at Vesterbro-Kongesn Enghave it can be seen that most bikeracks within this districs are located at Vesterbro which is the part of the districs closest to center of the city. 
 
 
 <embed 
@@ -149,9 +149,9 @@ This plot allso shows how the dentity of bikerakcs are unevenly distributed with
        src="A3\Geoplot_ownership.html"
        width="1100"
        height="350">
-_Figure Y: XXX_
+_Figure 8: XXX_
 
-The plot above shows the placement of each registred bikerack, coloured accordinglig to who own it, as well as the total number of bikespots pr districts. Here it can be seen that many of the public bikeracks are placed along major roads of copenhagen such as Frederikssundvej. This shows that there is a great protential for the state to place more bikeracks more evenly distributed along the districs. 
+*Figure 8* above shows the placement of each registred bikerack, coloured accordinglig to who own it, as well as the total number of bikespots pr districts. Here it can be seen that many of the public bikeracks are placed along major roads of copenhagen such as Frederikssundvej. This shows that there is a great protential for the state to place more bikeracks more evenly distributed along the districs. 
 
 
 |         **District**        | **No of spots** | **Public spots** | **Private spots** | **Ratio of public spots** |
