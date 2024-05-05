@@ -172,7 +172,7 @@ _Figure 8: A geoplot of the number of bike spots in the districts of Copenhagen.
 | Vesterbro - Kongens Enghave |      10868      |       5208       |        4378       |           0.4792          |
 |           Østerbro          |      14059      |       5022       |        7486       |           0.3572          |
 
-_Table 3: XXXXX._
+_Table 3: Amount of public, private and not registred bike spots within each city district._
 
 Looking at the key numbers of *table 3* it can be seen that there are very few bike racks in Vanløse and only 30.8% of the bikespots in Vanløse are owned by the public. Looking at the geoplots it is seen that the density of bike racks per citizen for Vanløse is very low. It could thereby be a possibility to invest in more bike racks in this district to ensure that this district receives adequate resources to support cycling as a viable transportation option. Furthermore, it can also be seen that the ratio of publiv spots in Bispebjerg and Østerbro are also low, which was also visible in *figure 8*. 
 
