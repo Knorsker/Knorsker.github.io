@@ -91,7 +91,7 @@ As previously mentioned, Indre By witnessed a surge in bike spots during 2016 an
 
 Overall, this plot illustrates the general population trends across districts, the total number of bike spots, and the correlation between population and bike spots. It's evident that both the population and bike spots are on the rise. However, it's important to note that the trend in bike spots represents the registered spots within the period, potentially excluding some spots and overlooking those removed over the years, which could affect the accuracy of the calculations.
 
-__Geographical analysis of bikespot within Copenhagen (V)__\
+__Geographical analysis of bike racks within Copenhagen (V)__\
  Copenhagen is know globally for its cycling culture and presents an ideal casestudy for understanding the dynamics of urban bike trafic. To convince the dayly comuters of Copenhagen to grab their bike in prefrence to a car, when comuting trough the city, it is nessesary that the city offers a sufficient and convinient infrastructure for bike trafic. 
 
 Every cyclist needs a place to securely park their bike upon arriving at their destination. Failure to meet this infrastructure need can lead to a situation where commuters struggle to find available parking spots for their bikes. In rush situations, they may park their bikes purposelessly next to others, obstructing sidewalks or impeding others' access to their bikes. Many commuters are familiar with the frustration of digging their bikes from a pile of abandoned bicycles before staring their comute. The lack of bikeracks dose therby not only creating a messy cityscape but also makes it less atrictive for comuters to use their bike. 
