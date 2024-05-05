@@ -46,7 +46,11 @@ The streets of Copenhagen are full of cyclists on a daily basis who use their bi
 ![One time-series / bar chart](/A3/168hourplot.png)
 _Figure 1: A 168 hour barplot showing the patterns for each hour in a week._
 
-Examining *Figure 1*, a distinct pattern gradually becomes apparent, revealing consistent trends for weekdays across each year. The appearance of two distinct peaks on each weekday serves as a clear indicator of rush hour periods, indicating peak times of cycling activity within the city. Furthermore, a noticeable decrease in the number of cyclists is observed during the weekends. Additionally, it's visible that more people are out cycling at night on weekends compared to weekdays. This could be because of the city's nightlife and social events.
+XXX Kan vi lave disse blots til 2 forskellige plots af 2x2 og 2x3 eller noget i den stil, synes de er for små til at kunne forklare/aflæse.? XXX
+
+Examining *Figure 1*, a distinct pattern gradually becomes apparent, revealing consistent trends for weekdays across each year. The appearance of two distinct peaks during weekdays are a clear indicator of rush hour periods, marking the busy morning and afternoon hours when the citizens commute to and from work, school, and other engagements, amplifying the cycling activity within the urban landscape. Furthermore, a noticeable decrease in the number of cyclists is observed during the weekends. Additionally, it's visible that more people are out cycling at night on weekends compared to weekdays. This could be because of the city's nightlife and social events.
+
+XXX Noget om forskellen fra år til år i figur 1 XXX
 
 <embed 
        type="text/html" 
@@ -55,11 +59,9 @@ Examining *Figure 1*, a distinct pattern gradually becomes apparent, revealing c
        height="400">
 _Figure 2: Monthly bar plot illustrating total number of bikes for each month._
 
-XXX Kan vi lave disse blots til 2 forskellige plots af 2x2 og 2x3 eller noget i den stil, synes de er for små til at kunne forklare/aflæse.? XXX
+To gain better insight into the biking habits of people in Copenhagen throughout the year, a bar plot is created for each year, see *figure 2*. The plot shows the number of bikes counted in Copenhagen for each month, where it is possible to selcet the desired year in the box beside the plot. 
 
-To gain better insight into the biking habits of people in Copenhagen throughout the year, a bar plot is created for each year with available data, see *figure 2*. The plot shows the number of bikes counted in Copenhagen for each month, where it is possible to selcet the desired year in the box beside the plot. 
-
-Examining the *figure 2*, it is evident that some of the data is insufficient. For instance, in 2005, there are no recorded bike counts in December. Additionally, an odd number of bike counts from Febuary to May in year 2012, which are notably lower compared to neighboring months and years. Similarly, 2006 exhibits a lower density of bikes in the first five months. For 2010, we see a low number of bikes in the early months.
+An analysis of *figure 2* reveals a notable inadequacy in some of the data. For instance, in 2005, there are no recorded bike counts in December. Additionally, an odd number of bike counts from Febuary to May in year 2012, which are notably lower compared to neighboring months and years. Similarly, 2006 exhibits a lower density of bikes in the first five months. For 2010, we see a low number of bikes in the early months.
 
 Several factors may contribute to these variations over the years. For instance in 2012, a [local article](https://www.dr.dk/nyheder/vejret/februar-er-historisk-den-koldeste-maaned) highlights February as historically cold since 1947, which could potentially influenced biking patterns among Danes. The consistently low bike counts in 2006 appear odd, and upon closer examination of the 2012 data, it becomes apparent that two-thirds of the streets measured from only have data available from June onwards.
 
