@@ -53,7 +53,7 @@ The streets of Copenhagen are full of cyclists on a daily basis who use their bi
 ![One time-series / bar chart](/A3/168hourplot_2.png)
 _Figure 1: A 168 hour barplot showing the patterns for each hour in a week._
 
-XXX Kan vi lave disse blots til 2 forskellige plots af 2x2 og 2x3 eller noget i den stil, synes de er for små til at kunne forklare/aflæse.? XXX
+XXXX Kan vi lave disse blots til 2 forskellige plots af 2x2 og 2x3 eller noget i den stil, synes de er for små til at kunne forklare/aflæse.? XXXX
 
 Examining *Figure 1*, a distinct pattern gradually becomes apparent, revealing consistent trends for weekdays across each year. The appearance of two distinct peaks during weekdays are a clear indicator of rush hour periods, marking the busy morning and afternoon hours when the citizens commute to and from work, school, and other engagements, amplifying the cycling activity within the urban landscape. Furthermore, a noticeable decrease in the number of cyclists is observed during the weekends. Additionally, it's visible that more people are out cycling at night on weekends compared to weekdays. This could be because of the city's nightlife and social events.
 
