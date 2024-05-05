@@ -65,7 +65,7 @@ Analyzing the overall trends across all years, it is observed that June, August,
 
 XXXXXX ADD TEXT FOR *RØD TRÅD* XXXXXXXXXX
 
-__Comparison (IV)__
+__NEW HEADER! Comparison (IV)__
 
 XXX Introduction  XXX
 
@@ -155,7 +155,7 @@ The plot above shows the placement of each registred bikerack, coloured accordin
 
 
 |         **District**        | **No of spots** | **Public spots** | **Private spots** | **Ratio of public spots** |
-|:---------------------------:|:---------------:|:----------------:|:-----------------:|:-------------------------:|
+|-----------------------------|-----------------|------------------|-------------------|---------------------------|
 |         Amager Vest         |       4109      |       2644       |        1073       |           0.6435          |
 |          Amager Øst         |       3051      |       1827       |        389        |           0.5988          |
 |          Bispebjerg         |       2164      |        840       |        1324       |           0.3882          |
