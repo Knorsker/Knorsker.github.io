@@ -50,7 +50,7 @@ XXXX Referance til tabel 2 mangler, tænker ikke vi skal have det med, hvis ikke
 __Temporal Trends and Seasonal Patterns of bike Activity in Copenhagen (III)__\
 The streets of Copenhagen are full of cyclists on a daily basis who use their bikes to and from work, shopping and much more. It is not unusual for the bike racks to be full, and for bikes to stand up from street walls and by lampposts. In this section, we delve into the trends shaping the cycling lifestyle on Copenhagen's streets by looking at the total amount of bikers during the week, the month and the year. 
 
-![One time-series / bar chart](/A3/168hourplot_2.png)
+<img src="/A3/168hourplot_2.png" alt="One time-series / bar chart" width="500"/>
 _Figure 1: A 168 hour barplot showing the patterns for each hour in a week._
 
 XXXX Kan vi lave disse blots til 2 forskellige plots af 2x2 og 2x3 eller noget i den stil, synes de er for små til at kunne forklare/aflæse.? XXXX
