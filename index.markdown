@@ -174,5 +174,9 @@ Looking at the key numbers of *table 3* it can be seen that there are very few b
 
 __Discussion and Conclusion (VI)__
 
-
+<embed 
+       type="text/html" 
+       src="A3\dashboard.html"
+       width="1100"
+       height="350">
 
