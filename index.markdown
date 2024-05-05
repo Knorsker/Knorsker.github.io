@@ -26,7 +26,7 @@ Secondly we have the population data, this data contains the population number w
 Lastly we have the bike racks data. It contains various information about bike racks in Copenhagen, i.a. the number of spots and location of the bike racks. In addition to this dataset, we have utilized the dataset called 'Bydele' from *opendata.dk*, which includes a GeoJSON file over the different districts of Copenhagen.
 
 
-|     Discrit              | Public | Private | Not registred | Proportion of public |
+|     District              | Public | Private | Not registred | Proportion of public |
 |--------------------------|--------|---------|---------------|----------------------|
 | Amager Vest              | 221    | 119     | 32            | ~59.4%               |
 | Amager Øst               | 125    | 48      | 76            | ~50.2%               |
