@@ -10,9 +10,9 @@ To get our Notebook click [HERE](A3\Notebook.ipynb)
 
 
 __Data (II)__\
-When analyzing the usage of bikes within Copenhagen, we will be using numerous datasets. The datasets we are using include bike count data, bike stands data, population data, and geoplot data for each city part. All datasets are provided by *opendata.dk*, except for population data, which is gathered from *the City of Copenhagen Statbank*.
+When analyzing the usage of bikes within Copenhagen, we will be using numerous datasets. The datasets we are using include bike count data, bike stands data, population data, and geoplot data for each of the districts in Copenhagen. All datasets are provided by *opendata.dk*, except for population data, which is gathered from *the City of Copenhagen Statbank*.
 
-The dataset containing bike counts spans 10 different years, from 2005 to 2014. This data is collected by counters placed on different bike roads within Copenhagen city. The number of bike roads counted varies over the years, as shown in Table 1, which provides an overview of the number of bike roads the data is collected from. This variation is important to take into account when using the data for analysis.
+The dataset containing bike counts spans 10 different years, from 2005 to 2014. This data is collected by counters placed on different bike roads within Copenhagen city. The number of bike roads counted varies over the years, as shown in *Table 1*, which provides an overview of the number of bike roads the data is collected from. This variation is important to take into account when using the data for analysis.
 
 
 |Year| 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 
@@ -21,9 +21,9 @@ The dataset containing bike counts spans 10 different years, from 2005 to 2014. 
 
 _Table 1: Number of streets, where data is measured from._
 
-Secondly we have the population data, this data contains the population number within each city part in Copenhagen over time. We have extracted the quantiles from year 2000 to 2024 to make it possible gain a better understanding of the trends.
+Secondly we have the population data, this data contains the population number within each district in Copenhagen over time. We have extracted the quantiles from year 2000 to 2024 to make it possible gain a better understanding of the trends.
 
-Lastly we have the Bike stands data. It contains various information about the number and placement of bike stands in Copenhagen. In addition to this dataset, we have utilized the dataset called 'Bydele' from *opendata.dk*, which includes a GeoJSON file over the different city part of Copenhagen.
+Lastly we have the bike racks data. It contains various information about bike racks in Copenhagen, i.a. the number of spots and location of the bike racks. In addition to this dataset, we have utilized the dataset called 'Bydele' from *opendata.dk*, which includes a GeoJSON file over the different districts of Copenhagen.
 
 
 | | Amager Vest | Amager Øst | Bispebjerg | Brønshøj-Husum | Indre By | Nørrebro | Valby | Vanløse | Vesterbro - Kongens Enghave | Østerbro | 
@@ -36,10 +36,13 @@ Lastly we have the Bike stands data. It contains various information about the n
 _Table 2: Amount of public, private and not registred bike racks._
 
 
+XXXX Referance til tabel 2 mangler, tænker ikke vi skal have det med, hvis ikke vi benytter os af det. XXXX
+
 
 
 __Temporal Trends and Seasonal Patterns of bike Activity in Copenhagen (III)__\
-XXX Intro XXX
+The streets of Copenhagen are full of cyclists on a daily basis who use their bikes to and from work, shopping and much more. It is not unusual for the bike racks to be full, and for bikes to stand up from street walls and by lampposts. In this section, we delve into the trends shaping the cycling lifestyle on Copenhagen's streets by looking at the total amount of bikers during the week, the month and the year. 
+
 ![One time-series / bar chart](/A3/168hourplot.png)
 _Figure 1: A 168 hour barplot showing the patterns for each hour in a week._
 
@@ -50,7 +53,9 @@ Examining *Figure 1*, a distinct pattern gradually becomes apparent, revealing c
        src="A3\Bokeh_monthly.html"
        width="600"
        height="400">
-_Figure 2: Monthly bar plot illustrating total number of bikes for each month.._
+_Figure 2: Monthly bar plot illustrating total number of bikes for each month._
+
+XXX Kan vi lave disse blots til 2 forskellige plots af 2x2 og 2x3 eller noget i den stil, synes de er for små til at kunne forklare/aflæse.? XXX
 
 To gain better insight into the biking habits of people in Copenhagen throughout the year, a bar plot is created for each year with available data, see *figure 2*. The plot shows the number of bikes counted in Copenhagen for each month, where it is possible to selcet the desired year in the box beside the plot. 
 
