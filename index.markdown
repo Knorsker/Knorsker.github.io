@@ -63,17 +63,14 @@ To gain better insight into the biking habits of people in Copenhagen throughout
 
 An analysis of *figure 2* reveals a notable inadequacy in some of the data. For instance, in 2005, there are no recorded bike counts in December. Additionally, an odd number of bike counts from Febuary to May in year 2012, which are notably lower compared to neighboring months and years. Similarly, 2006 exhibits a lower density of bikes in the first five months. For 2010, we see a low number of bikes in the early months.
 
-Several factors may contribute to these variations over the years. For instance in 2012, a [local article](https://www.dr.dk/nyheder/vejret/februar-er-historisk-den-koldeste-maaned) highlights February as historically cold since 1947, which could potentially influenced biking patterns among Danes. The consistently low bike counts in 2006 appear odd, and upon closer examination of the 2012 data, it becomes apparent that two-thirds of the streets measured from only have data available from June onwards.
+Several factors may contribute to these variations over the years. For instance in 2012, a [local article](https://www.dr.dk/nyheder/vejret/februar-er-historisk-den-koldeste-maaned) highlights February as historically cold since 1947, which could potentially influenced biking patterns among Danes. XXXXX The consistently low bike counts in 2006 appear odd, and upon closer examination of the 2012 data, it becomes apparent that two-thirds of the streets measured from only have data available from June onwards. (noget med tallene her) XXXXX
 
 
 Analyzing the overall trends across all years, it is observed that June, August, and September have the highest density of bikes, while the winter months typically have the lowest counts. Additionally, July often exhibits lower counts compared to neighboring months.  This occurrence may be attributed to many Danes vacationing during this month and potentially being away from the city. Moreover, with all schools on summer vacation in July, fewer children may be commuting via bike lanes during this period.
 
+__Trends in population and bike spots (IV)__
 
-XXXXXX ADD TEXT FOR *RØD TRÅD* XXXXXXXXXX
-
-__NEW HEADER! Comparison (IV)__
-
-XXX Introduction  XXX
+As we delve deeper into understanding the dynamics of Copenhagen's cycling culture, it is important to correlate the general bike patterns of the citizens in Copenhagen with the city's developing population and infrastructure development. In line with the variation in the number of bikes across seasons, Copenhagen's population has experienced its own changes. Understanding the interplay between these two facets provides valuable insight into the city's transportation ecosystem. This section will explore the population trends and the availability of bike racks in Copenhagen, shedding light on the relationship between urban demography and cycling infrastructure.
 
 <embed 
        type="text/html" 
