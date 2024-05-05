@@ -66,7 +66,7 @@ XXX Noget om forskellen fra år til år i figur 1 XXX
        height="400">
 _Figure 2: Monthly bar plot illustrating total number of bikes for each month._
 
-To gain better insight into the biking habits of people in Copenhagen throughout the year, a bar plot is created for each year, see *figure 2*. The plot shows the number of bikes counted in Copenhagen for each month, where it is possible to selcet the desired year in the box beside the plot. 
+To gain better insight into the biking habits of people in Copenhagen throughout the year, a bar plot is created for each year, see *Figure 2*. The plot shows the number of bikes counted in Copenhagen for each month, where it is possible to selcet the desired year in the box beside the plot. 
 
 An analysis of *figure 2* reveals a notable inadequacy in some of the data. For instance, in 2005, there are no recorded bike counts in December. Additionally, an odd number of bike counts from Febuary to May in year 2012, which are notably lower compared to neighboring months and years. Similarly, 2006 exhibits a lower density of bikes in the first five months. For 2010, we see a low number of bikes in the early months.
 
