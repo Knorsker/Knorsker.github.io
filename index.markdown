@@ -9,7 +9,6 @@ __Introduction (I)__
 To get our Notebook click [HERE](A3\Notebook.ipynb)
 
 
-
 __Data (II)__\
 When analyzing the usage of bikes within Copenhagen, we will be using numerous datasets. The datasets we are using include bike count data, bike stands data, population data, and geoplot data for each city part. All datasets are provided by *opendata.dk*, except for population data, which is gathered from *the City of Copenhagen Statbank*.
 
