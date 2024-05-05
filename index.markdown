@@ -53,7 +53,7 @@ Examining *Figure 1*, a distinct pattern gradually becomes apparent, revealing c
        height="400">
 _Figure 2: A monthly barplot showing the number of bikes total whithin that month._
 
-To gain better insight into the biking habits of people in Copenhagen throughout the year, a bar plot is created for each year with available data, see *Figure 2*. The plot shows the number of bikes counted in Copenhagen for each month, where it is possible to selcet the desired year in the box beside the plot. 
+To gain better insight into the biking habits of people in Copenhagen throughout the year, a bar plot is created for each year with available data, see *figure 2*. The plot shows the number of bikes counted in Copenhagen for each month, where it is possible to selcet the desired year in the box beside the plot. 
 
 Examining the *figure 2*, it is evident that some of the data is insufficient. For instance, in 2005, there are no recorded bike counts in December. Additionally, an odd number of bike counts from Febuary to May in year 2012, which are notably lower compared to neighboring months and years. Similarly, 2006 exhibits a lower density of bikes in the first five months. For 2010, we see a low number of bikes in the early months.
 
@@ -74,7 +74,7 @@ XXX Introduction  XXX
        src="A3\bokeh_population_spots.html"
        width="1100"
        height="450">
-_Figure Y: FIGURE TEXT._
+_Figure 3: Trends in population and bike spots in the districts of Copenhagen._
 
 In the interactive plot, the first noticeable feature is the population progress across various districts in Copenhagen. The population data spans from the year 2000 to 2024, with measurements taken quarterly from 2002 to 2024, and once each in 2000 and 2001.
 Additionally, is the plot showing the visualization of the cumulative number of bike spots across different districts over the years. The initial value for this cumulative sum is the total number of bike spots without registration dates.
@@ -154,10 +154,20 @@ _Figure Y: XXX_
 The plot above shows the placement of each registred bikerack, coloured accordinglig to who own it, as well as the total number of bikespots pr districts. Here it can be seen that many of the public bikeracks are placed along major roads of copenhagen such as Frederikssundvej. This shows that there is a great protential for the state to place more bikeracks more evenly distributed along the districs. 
 
 
+|         **District**        | **No of spots** | **Public spots** | **Private spots** | **Ratio of public spots** |
+|:---------------------------:|:---------------:|:----------------:|:-----------------:|:-------------------------:|
+|         Amager Vest         |       4109      |       2644       |        1073       |           0.6435          |
+|          Amager Øst         |       3051      |       1827       |        389        |           0.5988          |
+|          Bispebjerg         |       2164      |        840       |        1324       |           0.3882          |
+|       Brønshøj - Husum      |       1808      |        959       |        849        |           0.5304          |
+|           Nørrebro          |       7354      |       3255       |        4071       |           0.4426          |
+|            Valby            |       2806      |       1797       |        979        |           0.6404          |
+|           Vanløse           |       1506      |        464       |        1042       |           0.3081          |
+| Vesterbro - Kongens Enghave |      10868      |       5208       |        4378       |           0.4792          |
+|           Østerbro          |      14059      |       5022       |        7486       |           0.3572          |
+_Table 3: XXXXX._
 
-
-
-Looking at the keynumber of the tabel above it can be seen that there are very few bikeracks in Vanløse and only 30.8\% of the bikespots in Vanløse is owned by the public. Looking at the geoplots it is seen that the density of bike racks pr citizen for Vanløse is very low. It could therby be a posiablility to invest in more bikeracks in this districs to ensure that this districs receive adequate resources to support cycling as a viable transportation option.
+Looking at the keynumber of *table 3* it can be seen that there are very few bikeracks in Vanløse and only 30.8\% of the bikespots in Vanløse is owned by the public. Looking at the geoplots it is seen that the density of bike racks pr citizen for Vanløse is very low. It could therby be a posiablility to invest in more bikeracks in this districs to ensure that this districs receive adequate resources to support cycling as a viable transportation option.
 
 
 __Discussion and Conclusion (VI)__
