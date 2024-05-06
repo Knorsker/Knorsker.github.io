@@ -14,7 +14,7 @@ Among the bustling streets of the Danish capital, an interaction unfolds between
 This project aims to unravel the interplay between cycling traffic dynamics, infrastructure development, and urban planning strategies in Copenhagen. With analysis and visualisation of data, we aspire to contribute to the discourse of sustainable mobility by advocating for where efforts could be made to ensure the continued prioritization of cycling as a viable mode of transportation.
 
 __Data (II)__\
-When analyzing the usage of bikes within Copenhagen, we will be using numerous datasets. The datasets we are using include bike count data, bike racks data, population data, and geoplot data for each of the districts in Copenhagen. All datasets are provided by *opendata.dk*, except for population data, which is gathered from *the City of Copenhagen Statbank*.
+When analyzing the usage of bikes within Copenhagen, we will be using numerous datasets. The datasets we are using include bike count data, bike racks data, population data, and geoplot data for each of the districts in Copenhagen. All datasets are provided by [*opendata.dk*](https://www.opendata.dk), except for population data, which is gathered from [*the City of Copenhagen Statbank*](https://kk.statistikbank.dk).
 
 The dataset containing bike counts spans 10 different years, from 2005 to 2014. This data is collected by counters placed on different bike roads within Copenhagen city. The number of bike roads counted varies over the years, as shown in *Table 1*, which provides an overview of the number of bike roads the data is collected from. This variation is important to take into account when using the data for analysis.
 
