@@ -27,7 +27,7 @@ _Table 1: Number of streets, where data is measured from._
 
 Secondly we have the population data, this data contains the population number within each district in Copenhagen over time. We have extracted the quantiles from year 2000 to 2024 to make it possible gain a better understanding of the trends.
 
-Lastly we have the bike racks data. It contains various information about bike racks in Copenhagen, i.a. the number of spots and location of the bike racks. In addition to this dataset, we have utilized the dataset called 'Bydele' from *opendata.dk*, which includes a GeoJSON file over the different districts of Copenhagen. In *table 2* it is possible to see the number of bike racks in each city district divided in the ownership.
+Lastly we have the bike racks data. It contains various information about bike racks in Copenhagen, i.a. the number of spots and location of the bike racks. In addition to this dataset, we have utilized the dataset called 'Bydele' from [*opendata.dk*](https://www.opendata.dk), which includes a GeoJSON file over the different districts of Copenhagen. In *table 2* it is possible to see the number of bike racks in each city district divided in the ownership.
 
 
 |     District              | Public | Private | Not registred | Proportion of public |
