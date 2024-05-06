@@ -114,12 +114,16 @@ The strategic placement of bike racks serves as a reflection of the city's effor
        height="350">
 _Figure 4: A visualization of the number of bike spots in the districts of Copenhagen. The points represent the exact bike racks around in Copenhagen._
 
+In *figure 4*  the placement of each registered bike rack in shown as well as the total number of bike spots per district. This plot shows that the district Indre By is the district with the most registered bikespots with 26731 bikespots. The outer Nordvest districts Valby, Vanløse, Brønshøj-Husum and Bispebjerg all have a number of bike racks in the range 1500-3000, which can also be seen in *figure 3* when plotting the bike spots. Looking at the geographical placement of each data plot it can be seen that major roads such as Frederikssundvej, Amagerbrogade and Østerbrograde are traced out as many bikeracks are placed on these streets.
+
 <embed 
        type="text/html" 
        src="A3\Geoplot_antal_pladser_per_m2.html"
        width="1100"
        height="350">
 _Figure 5: A visualization of the number of bike spots per m<sup>2</sup> in the districts of Copenhagen. The points represent the exact bike racks around in Copenhagen._
+
+*Figure 5* shows the placement of each registered bike rack as well as the total number of bike spots per m<sup>2</sup> per district. This is to showcase the density of the number of bike spots across the different districts. This plot shows that the density of bike racks is higher in the inner districts compared to the outer districts. The first and the second geoplot roughly show the same tendency as most of the districts in Copenhagen have roughly the same area. Smaller regions, such as Nørrebro, are rated slightly better, while larger regions, such as Amager Vest, are rated slightly worse.
 
 <embed 
        type="text/html" 
@@ -128,11 +132,7 @@ _Figure 5: A visualization of the number of bike spots per m<sup>2</sup> in the 
        height="350">
 _Figure 6: A visualization of the number of bike spots per citizen in the districts of Copenhagen. The points represent the exact bike racks around in Copenhagen._
 
-The first geoplot (*figure 4*) shows the placement of each registered bike rack as well as the total number of bike spots per district. This plot shows that the district Indre By is the district with the most registered bikespots with 26731 bikespots. The outer Nordvest districts Valby, Vanløse, Brønshøj-Husum and Bispebjerg all have a number of bike racks in the range 1500-3000, which can also be seen in *figure 3* when plotting the bike spots. Looking at the geographical placement of each data plot it can be seen that major roads such as Frederikssundvej, Amagerbrogade and Østerbrograde are traced out as many bikeracks are placed on these streets.
-
-The second geoplot (*figure 5*) shows the placement of each registered bike rack as well as the total number of bike spots per m<sup>2</sup> per district. This is to showcase the density of the number of bike spots across the different districts. This plot shows that the density of bike racks is higher in the inner districts compared to the outer districts. The first and the second geoplot roughly show the same tendency as most of the districts in Copenhagen have roughly the same area. Smaller regions, such as Nørrebro, are rated slightly better, while larger regions, such as Amager Vest, are rated slightly worse.
-
-The third geoplot (*figure 6*) shows the placement of each registered bike rack as well as the total number of bike spots per citizen per district. The aim of this plot is also to show the density of bike spots across the different districts - though in this case, it is relative to the population of the district. It is interesting to see the range of these numbers. In the Nordvest district of Copenhagen, there are only 0.02 bike spots per citizen, while there are 0.40 bike spots per citizen in Indre By. This means that bike spots are much more accessible in Indre By compared to the outer districts. 
+In *figure 6* the placement of each registered bike rack is shown as well as the total number of bike spots per citizen per district. The aim of this plot is also to show the density of bike spots across the different districts - though in this case, it is relative to the population of the district. It is interesting to see the range of these numbers. In the Nordvest district of Copenhagen, there are only 0.02 bike spots per citizen, while there are 0.40 bike spots per citizen in Indre By. This means that bike spots are much more accessible in Indre By compared to the outer districts. 
 
 Overall the three geoplots roughly showcase the same tendencies. The data suggests a significantly higher concentration of bike racks in the inner districts compared to the outer areas. This could be because the inner districts of Copenhagen serve as major employment hubs, attracting a significant influx of commuters on a daily basis. As a result, there is a greater demand for cycling infrastructure in these areas to accommodate the commuting needs of residents and workers.
 
