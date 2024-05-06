@@ -59,9 +59,9 @@ Comparing all the years, it can be seen that they often have the same number of 
 
 <embed 
        type="text/html" 
-       src="A3\Bokeh_monthly.html"
+       src="A3\Bokeh_monthly2.html"
        width="800"
-       height="500">
+       height="400">
 _Figure 2: Monthly bar plot illustrating total number of bikes for each month._
 
 To gain better insight into the biking habits of people in Copenhagen throughout the year, a bar plot is created for each year, see *figure 2*. The plot shows the number of bikes counted in Copenhagen for each month, where it is possible to selcet the desired year in the box beside the plot. 

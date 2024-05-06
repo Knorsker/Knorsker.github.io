@@ -2,19 +2,33 @@ import pandas as pd
 from bokeh.palettes import Category20b
 from bokeh.plotting import figure, show
 from bokeh.models import ColumnDataSource, FactorRange, Legend, NumeralTickFormatter
+from bokeh.io import output_file, save
 
 # List of file paths for the datasets
+# file_paths = [
+#     "../Data/cykeltaellinger-2005.xlsx",
+#     "../Data/cykeltaellinger-2006.xlsx",
+#     "../Data/cykeltaellinger-2007.xlsx",
+#     "../Data/cykeltaellinger-2008.xlsx",
+#     "../Data/cykeltaellinger-2009.xlsx",
+#     "../Data/cykeltaellinger-2010.xlsx",
+#     "../Data/cykeltaellinger-2011.xlsx",
+#     "../Data/cykeltaellinger-2012.xlsx",
+#     "../Data/cykeltaellinger-2013.xlsx",
+#     "../Data/cykeltaellinger-2014.xlsx",
+# ]
+
 file_paths = [
-    "../Data/cykeltaellinger-2005.xlsx",
-    "../Data/cykeltaellinger-2006.xlsx",
-    "../Data/cykeltaellinger-2007.xlsx",
-    "../Data/cykeltaellinger-2008.xlsx",
-    "../Data/cykeltaellinger-2009.xlsx",
-    "../Data/cykeltaellinger-2010.xlsx",
-    "../Data/cykeltaellinger-2011.xlsx",
-    "../Data/cykeltaellinger-2012.xlsx",
-    "../Data/cykeltaellinger-2013.xlsx",
-    "../Data/cykeltaellinger-2014.xlsx",
+    "Data\cykeltaellinger-2005.xlsx",
+    "Data\cykeltaellinger-2006.xlsx",
+    "Data\cykeltaellinger-2007.xlsx",
+    "Data\cykeltaellinger-2008.xlsx",
+    "Data\cykeltaellinger-2009.xlsx",
+    "Data\cykeltaellinger-2010.xlsx",
+    "Data\cykeltaellinger-2011.xlsx",
+    "Data\cykeltaellinger-2012.xlsx",
+    "Data\cykeltaellinger-2013.xlsx",
+    "Data\cykeltaellinger-2014.xlsx"
 ]
 
 # List to store DataFrames
@@ -48,7 +62,9 @@ data.reset_index(inplace=True)  # Resetting the index to flatten the MultiIndex
 
 src = ColumnDataSource(data)
 
-p = figure(x_range=FactorRange(factors=data['Month_Name']), title="Number of bikes counted each month", x_axis_label="Month", y_axis_label="no. Bikes", width=600, height=400)
+p = figure(x_range=FactorRange(factors=data['Month_Name']), title="Number of bikes counted each month", 
+           x_axis_label="Month", y_axis_label="no. Bikes", 
+           width=800, height=400)
 
 items = []
 bar = {}
@@ -69,3 +85,6 @@ p.y_range.start = 0
 p.yaxis.formatter = NumeralTickFormatter(format='0')
 
 show(p)
+
+output_file("Bokeh_monthly2.html")
+save(p)
