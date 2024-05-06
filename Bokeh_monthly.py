@@ -5,30 +5,17 @@ from bokeh.models import ColumnDataSource, FactorRange, Legend, NumeralTickForma
 from bokeh.io import output_file, save
 
 # List of file paths for the datasets
-# file_paths = [
-#     "../Data/cykeltaellinger-2005.xlsx",
-#     "../Data/cykeltaellinger-2006.xlsx",
-#     "../Data/cykeltaellinger-2007.xlsx",
-#     "../Data/cykeltaellinger-2008.xlsx",
-#     "../Data/cykeltaellinger-2009.xlsx",
-#     "../Data/cykeltaellinger-2010.xlsx",
-#     "../Data/cykeltaellinger-2011.xlsx",
-#     "../Data/cykeltaellinger-2012.xlsx",
-#     "../Data/cykeltaellinger-2013.xlsx",
-#     "../Data/cykeltaellinger-2014.xlsx",
-# ]
-
 file_paths = [
-    "Data\cykeltaellinger-2005.xlsx",
-    "Data\cykeltaellinger-2006.xlsx",
-    "Data\cykeltaellinger-2007.xlsx",
-    "Data\cykeltaellinger-2008.xlsx",
-    "Data\cykeltaellinger-2009.xlsx",
-    "Data\cykeltaellinger-2010.xlsx",
-    "Data\cykeltaellinger-2011.xlsx",
-    "Data\cykeltaellinger-2012.xlsx",
-    "Data\cykeltaellinger-2013.xlsx",
-    "Data\cykeltaellinger-2014.xlsx"
+    "../Data/cykeltaellinger-2005.xlsx",
+    "../Data/cykeltaellinger-2006.xlsx",
+    "../Data/cykeltaellinger-2007.xlsx",
+    "../Data/cykeltaellinger-2008.xlsx",
+    "../Data/cykeltaellinger-2009.xlsx",
+    "../Data/cykeltaellinger-2010.xlsx",
+    "../Data/cykeltaellinger-2011.xlsx",
+    "../Data/cykeltaellinger-2012.xlsx",
+    "../Data/cykeltaellinger-2013.xlsx",
+    "../Data/cykeltaellinger-2014.xlsx",
 ]
 
 # List to store DataFrames
@@ -86,5 +73,5 @@ p.yaxis.formatter = NumeralTickFormatter(format='0')
 
 show(p)
 
-output_file("Bokeh_monthly2.html")
-save(p)
+# output_file("Bokeh_monthly2.html")
+# save(p)
