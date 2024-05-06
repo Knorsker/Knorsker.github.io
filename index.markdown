@@ -3,11 +3,15 @@ layout: default
 ---
 *Updated: {% assign copenhagen_time = site.time | date: "%d-%m-%Y %H:%M:%S" | date: "%s" | plus: 3600 | date: "%d-%m-%Y %H:%M:%S" %}{{ copenhagen_time }}*
 
-
-__Introduction (I)__
-
+__Notebook__
 To get our Notebook click [HERE](A3\Notebook.ipynb)
 
+__Introduction: Riding Through Copenhagen (I)__
+Copenhagen is a city with a remarkable bicycle culture, where the rhythm of urban life pulses with the cadence of pedals!
+The Danish capital is globally known for its commitment to cycling as a sustainable mode of transportation and stands as an exemplar in urban cycling culture. The city therefore presents an ideal case study for understanding the dynamics of urban bike traffic.
+Among the bustling streets of the Danish capital, an interaction unfolds between the city's infrastructure to support its growing population and the citizen's patterns of cycling traffic. In this exploration, we look into the story behind Copenhagen's relationship with cycling and the evolving infrastructure that supports it. 
+
+This project aims to unravel the interplay between cycling traffic dynamics, infrastructure development, and urban planning strategies in Copenhagen. With analysis and visualisation of data, we aspire to contribute to the discourse of sustainable mobility by advocating for where efforts could be made to ensure the continued prioritization of cycling as a viable mode of transportation.
 
 __Data (II)__\
 When analyzing the usage of bikes within Copenhagen, we will be using numerous datasets. The datasets we are using include bike count data, bike stands data, population data, and geoplot data for each of the districts in Copenhagen. All datasets are provided by *opendata.dk*, except for population data, which is gathered from *the City of Copenhagen Statbank*.
@@ -97,7 +101,7 @@ As previously mentioned, Indre By witnessed a surge in bike spots during 2016 an
 Overall, this plot illustrates the general population trends across districts, the total number of bike spots, and the correlation between population and bike spots. It's evident that both the population and bike spots are on the rise. However, it's important to note that the trend in bike spots represents the registered spots within the period, potentially excluding some spots and overlooking those removed over the years, which could affect the accuracy of the calculations.
 
 __Geographical analysis of bike racks within Copenhagen (V)__\
- Copenhagen is known globally for its cycling culture and presents an ideal case study for understanding the dynamics of urban bike traffic. To convince the daily commuters of Copenhagen to grab their bike in preference to a car, when commuting through the city, it is necessary that the city offers a sufficient and convenient infrastructure for bike traffic. 
+ To convince the daily commuters of Copenhagen to grab their bike in preference to a car, when commuting through the city, it is necessary that the city offers a sufficient and convenient infrastructure for bike traffic. 
 
 Every cyclist needs a place to securely park their bike upon arriving at their destination. Failure to meet this infrastructure need can lead to a situation where commuters struggle to find available parking spots for their bikes. The lack of bike racks not only creates a messy cityscape but also makes it less attractive for commuters to use their bike. 
 
@@ -170,8 +174,18 @@ _Figure 8: A geoplot of the number of bike spots in the districts of Copenhagen.
 
 _Table 3: Amount of public, private and not registred bike spots within each city district._
 
-Looking at the key numbers of *table 3* it can be seen that there are very few bike racks in Vanløse and only 30.8% of the bikespots in Vanløse are owned by the public. Looking at the geoplots it is seen that the density of bike racks per citizen for Vanløse is very low. It could thereby be a possibility to invest in more bike racks in this district to ensure that this district receives adequate resources to support cycling as a viable transportation option. Furthermore, it can also be seen that the ratio of publiv spots in Bispebjerg and Østerbro are also low, which was also visible in *figure 8*. 
+Looking at the key numbers of *table 3* it can be seen that there are very few bike racks in Vanløse and only 30.8% of the bikespots in Vanløse are owned by the public. Looking at the geoplots it is seen that the density of bike racks per citizen for Vanløse is very low. It could thereby be a possibility to invest in more bike racks in this district to ensure that this district receives adequate resources to support cycling as a viable transportation option. Furthermore, it can also be seen that the ratio of public spots in Bispebjerg and Østerbro are also low, which was also visible in *figure 8*. 
 
 
 __Discussion and Conclusion (VI)__
+To ensure the prioritization of cycling as a viable mode of transportation, it is necessary to look into where efforts could be made to enhance the infrastructure to support the daily commuters and citizens of Copenhagen. This is to make it more attractive for citizens to grab their bikes. Throughout this project we have analysed and visualised bike count data, bike stands data, population data, and geoplot data intending to understand cycling traffic patterns, track infrastructure evolution and optimise bike rack placement.
+
+Here we have found that the biking culture has been evident in Copenhagen for many years and that the citizens' biking habits change throughout the seasons of the year. However, the bustling streets of Copenhagen seem to encounter more and more traffic during rush hours. Therefore the necessary infrastructure must be provided to support this growth.
+
+The evolution of cycling infrastructure, seen through the distribution of bike racks, serves as a tangible reflection of Copenhagen's commitment to fostering a bicycle-friendly environment. Over the past two decades, as the city has undergone demographic shifts and urban development, the growth of bike rack installations in each district has also increased slightly. However, when looking at districts, where the population growth has been rapid, such as Amager Vest, Vesterbro/Kongens Enghave and Valby, the growth of bike rack installations has not matched this, meaning efforts could be made in these districts to support the infrastructure.
+
+When looking at the distribution of bike racks of the different districts it is clear to see that the inner districts have a much higher rate of bike racks pr. citizen or pr. square meter than the outer districts.
+Looking at the distribution of bike racks within the city patterns appear to reveal the prioritisation of placements for bike racks. Here it is seen that major bike rack installations have been built near many train, bus or metro stations. This is because the city prioritizes making it convenient for commuters to connect public transport with biking.
+It also shows that the distribution of bike racks is unevenly distributed throughout many districts. In Amager Vest most bike racks are placed along the M1 metro line meaning that in many other parts of the district, it may be hard to find a free bike rack. In Vesterbro/Kongens Enghave it is clear that Vesterbro has a much higher density of bike racks than Kongens Enghave. Only 30.8% of the few bike spots in Vanløse are owned by the public. This means that all of these districts have the potential to develop their biking infrastructure to make more parts of the city accessible by bike.
+
 
