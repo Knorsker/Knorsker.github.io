@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-*Updated: {% assign copenhagen_time = site.time | date: "%d-%m-%Y %H:%M:%S" | date: "%s" | plus: 3600 | date: "%d-%m-%Y %H:%M:%S" %}{{ copenhagen_time }}*
+<!-- *Updated: {% assign copenhagen_time = site.time | date: "%d-%m-%Y %H:%M:%S" | date: "%s" | plus: 3600 | date: "%d-%m-%Y %H:%M:%S" %}{{ copenhagen_time }}* -->
 
 __Notebook__
 To get our Notebook click [HERE](A3\Notebook.ipynb)
 
-__Introduction: Riding Through Copenhagen (I)__
+__Introduction: Riding Through Copenhagen (I)__\
 Copenhagen is a city with a remarkable bicycle culture, where the rhythm of urban life pulses with the cadence of pedals!
 The Danish capital is globally known for its commitment to cycling as a sustainable mode of transportation and stands as an exemplar in urban cycling culture. The city therefore presents an ideal case study for understanding the dynamics of urban bike traffic.
 Among the bustling streets of the Danish capital, an interaction unfolds between the city's infrastructure to support its growing population and the citizen's patterns of cycling traffic. In this exploration, we look into the story behind Copenhagen's relationship with cycling and the evolving infrastructure that supports it. 
@@ -177,7 +177,7 @@ _Table 3: Amount of public, private and not registred bike spots within each cit
 Looking at the key numbers of *table 3* it can be seen that there are very few bike racks in Vanløse and only 30.8% of the bikespots in Vanløse are owned by the public. Looking at the geoplots it is seen that the density of bike racks per citizen for Vanløse is very low. It could thereby be a possibility to invest in more bike racks in this district to ensure that this district receives adequate resources to support cycling as a viable transportation option. Furthermore, it can also be seen that the ratio of public spots in Bispebjerg and Østerbro are also low, which was also visible in *figure 8*. 
 
 
-__Discussion and Conclusion (VI)__
+__Discussion and Conclusion (VI)__\
 To ensure the prioritization of cycling as a viable mode of transportation, it is necessary to look into where efforts could be made to enhance the infrastructure to support the daily commuters and citizens of Copenhagen. This is to make it more attractive for citizens to grab their bikes. Throughout this project we have analysed and visualised bike count data, bike stands data, population data, and geoplot data intending to understand cycling traffic patterns, track infrastructure evolution and optimise bike rack placement.
 
 Here we have found that the biking culture has been evident in Copenhagen for many years and that the citizens' biking habits change throughout the seasons of the year. However, the bustling streets of Copenhagen seem to encounter more and more traffic during rush hours. Therefore the necessary infrastructure must be provided to support this growth.
