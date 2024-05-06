@@ -114,7 +114,7 @@ The strategic placement of bike racks serves as a reflection of the city's effor
        height="350">
 _Figure 4: A visualization of the number of bike spots in the districts of Copenhagen. The points represent the exact bike racks around in Copenhagen._
 
-In *figure 4*  the placement of each registered bike rack in shown as well as the total number of bike spots per district. This plot shows that the district Indre By is the district with the most registered bikespots with 26731 bikespots. The outer Nordvest districts Valby, Vanløse, Brønshøj-Husum and Bispebjerg all have a number of bike racks in the range 1500-3000, which can also be seen in *figure 3* when plotting the bike spots. Looking at the geographical placement of each data plot it can be seen that major roads such as Frederikssundvej, Amagerbrogade and Østerbrograde are traced out as many bikeracks are placed on these streets.
+In *figure 4*  the placement of each registered bike rack is shown as well as the total number of bike spots per district. This plot shows that the district Indre By is the district with the most registered bikespots with 26731 bikespots. The outer Nordvest districts Valby, Vanløse, Brønshøj-Husum and Bispebjerg all have a number of bike racks in the range 1500-3000, which can also be seen in *figure 3* when plotting the bike spots. Looking at the geographical placement of each data plot it can be seen that major roads such as Frederikssundvej, Amagerbrogade and Østerbrograde are traced out as many bikeracks are placed on these streets.
 
 <embed 
        type="text/html" 
